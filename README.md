@@ -2,6 +2,7 @@
  
 ### Recent releases
 <!-- recent_releases starts -->
+
 <!-- recent_releases ends -->
 
 More [recent releases](https://github.com/fulln/fulln/blob/main/releases.md)
