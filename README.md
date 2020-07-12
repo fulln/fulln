@@ -5,7 +5,7 @@
 
 <!-- recent_releases ends -->
 
-More [recent releases](https://github.com/fulln/fulln/blob/main/releases.md)
+More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 
 
 
