@@ -40,7 +40,7 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Update README
       env:
-        TOKEN: ${{ secrets.README }}
+        TOKEN: ${{ secrets.README_BOT }}
       run: |-
         python build_readme.py
         cat README.md
