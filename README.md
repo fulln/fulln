@@ -1,16 +1,13 @@
-### Hi there 👋
+<table><tr><td valign="top">
+ 
+### Recent releases
+<!-- recent_releases starts -->
+<!-- recent_releases ends -->
 
-<!--
-**fulln/fulln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+More [recent releases](https://github.com/fulln/fulln/blob/main/releases.md)
 
-Here are some ideas to get you started:
+</td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>actions depends on <a>https://github.com/simonw</a>
+
+<a href="https://github.com/fulln/fulln/actions"><img src="https://github.com/fulln/fulln/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
