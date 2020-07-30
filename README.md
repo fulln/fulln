@@ -29,8 +29,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 </td><td valign="top"> 
 
 ### Recent TIL
-> NOTICE </br>
->  coming soon
+
 <!-- recent_TIL starts -->
 * [判断一个整数是否是回文数](https://github.com/fulln/TIL/blob/master/leetcode/easy/isPalindrome.md) - 2020-07-28
 * [将两个升序链表合并为一个新的 升序 链表并返回](https://github.com/fulln/TIL/blob/master/leetcode/easy/mergeTwoLists.md) - 2020-07-28
