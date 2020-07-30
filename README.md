@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 
 <!-- recent_TIL starts -->
-* [判断一个整数是否是回文数](https://github.com/fulln/TIL/blob/master/leetcode/easy/isPalindrome.md) - 2020-07-28
-* [将两个升序链表合并为一个新的 升序 链表并返回](https://github.com/fulln/TIL/blob/master/leetcode/easy/mergeTwoLists.md) - 2020-07-28
-* [搜索插入位置](https://github.com/fulln/TIL/blob/master/leetcode/easy/searchInsert.md) - 2020-07-28
-* [罗马数字](https://github.com/fulln/TIL/blob/master/leetcode/easy/romanToInt.md) - 2020-07-28
-* [实现 strStr() 函数。](https://github.com/fulln/TIL/blob/master/leetcode/easy/strStr.md) - 2020-07-28
+* [移除所有数值等于val的元素](https://github.com/fulln/TIL/blob/master/leetcode/easy/removeElement.md) - 2020-07-28
+* [两数之合](https://github.com/fulln/TIL/blob/master/leetcode/easy/twoSum.md) - 2020-07-28
+* [判断字符串是否有效](https://github.com/fulln/TIL/blob/master/leetcode/easy/isValid.md) - 2020-07-28
+* [maxSubArray-最大子序和](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxSubarray.md) - 2020-07-29
+* [vim 安装fzf](https://github.com/fulln/TIL/blob/master/vim/vim_plugins_fzf.md) - 2020-07-28
 <!-- recent_TIL ends -->
 
 </td></tr></table>
