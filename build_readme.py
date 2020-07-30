@@ -146,9 +146,7 @@ if __name__ == "__main__":
     project_releases.open("w").write(project_releases_content)
 
     tils = fetch_tils()
-    tils_md = "\n".join([
-          til for til in tils['top']
-        ])
+    tils_md = "\n".join(tils['top'])
     rewritten = replace_chunk(rewritten, "recent_TIL", tils_md)
 
     # entries = fetch_blog_entries()[:5]
