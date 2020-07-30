@@ -32,7 +32,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 > NOTICE </br>
 >  coming soon
 <!-- recent_TIL starts -->
-
+* [判断一个整数是否是回文数](https://github.com/fulln/TIL/blob/master/leetcode/easy/isPalindrome.md) - 2020-07-28
+* [将两个升序链表合并为一个新的 升序 链表并返回](https://github.com/fulln/TIL/blob/master/leetcode/easy/mergeTwoLists.md) - 2020-07-28
+* [搜索插入位置](https://github.com/fulln/TIL/blob/master/leetcode/easy/searchInsert.md) - 2020-07-28
+* [罗马数字](https://github.com/fulln/TIL/blob/master/leetcode/easy/romanToInt.md) - 2020-07-28
+* [实现 strStr() 函数。](https://github.com/fulln/TIL/blob/master/leetcode/easy/strStr.md) - 2020-07-28
 <!-- recent_TIL ends -->
 
 </td></tr></table>
