@@ -151,7 +151,7 @@ if __name__ == "__main__":
           til for til in tils['top']
         ]
     )
-    rewritten = replace_chunk(rewritten, "tils", tils_md)t
+    rewritten = replace_chunk(rewritten, "recent_TIL", tils_md)t
 
     # entries = fetch_blog_entries()[:5]
     # entries_md = "\n".join(
