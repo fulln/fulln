@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 
 <!-- recent_TIL starts -->
-* [移除所有数值等于val的元素](https://github.com/fulln/TIL/blob/master/leetcode/easy/removeElement.md) - 2020-07-28
 * [两数之合](https://github.com/fulln/TIL/blob/master/leetcode/easy/twoSum.md) - 2020-07-28
 * [判断字符串是否有效](https://github.com/fulln/TIL/blob/master/leetcode/easy/isValid.md) - 2020-07-28
 * [maxSubArray-最大子序和](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxSubarray.md) - 2020-07-29
 * [vim 安装fzf](https://github.com/fulln/TIL/blob/master/vim/vim_plugins_fzf.md) - 2020-07-28
+* [使用react+next+material 构建前端](https://github.com/fulln/TIL/blob/master/react/react_next.md) - 2020-07-31
 <!-- recent_TIL ends -->
 
 </td></tr></table>
