@@ -32,11 +32,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 
 <!-- recent_TIL starts -->
-* [lengthOfLastWord_最后一个单词](https://github.com/fulln/TIL/blob/master/leetcode/easy/lengthOfLastWord.md) - 2020-08-01
 * [plus_one_加一](https://github.com/fulln/TIL/blob/master/leetcode/easy/plus_one.md) - 2020-08-03
 * [addBrain-2进制计算](https://github.com/fulln/TIL/blob/master/leetcode/easy/addBrain.md) - 2020-08-04
 * [vim 安装fzf](https://github.com/fulln/TIL/blob/master/vim/vim_plugins_fzf.md) - 2020-07-28
 * [使用react+next+material 构建前端](https://github.com/fulln/TIL/blob/master/react/react_next.md) - 2020-07-31
+* [上传jar包到本地maven库](https://github.com/fulln/TIL/blob/master/maven/mavenDeploy.md) - 2020-08-05
 <!-- recent_TIL ends -->
 
 </td></tr></table>
