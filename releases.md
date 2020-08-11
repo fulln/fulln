@@ -11,4 +11,4 @@ All <!-- release_count starts -->2<!-- release_count ends --> of my released pro
 
 
 
-> thanks for [simonw's](https://github.com/simonw/simonw) idea and i copied from he 
+> thanks for [simonw's](https://github.com/simonw/simonw) idea and i copied from him
