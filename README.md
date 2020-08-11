@@ -32,7 +32,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
-* [删除排序链表中的重复元素](https://github.com/fulln/TIL/blob/master/leetcode/easy/deleteDuplicate.md) - 2020-08-10
+* [合并两个有序数组](https://github.com/fulln/TIL/blob/master/leetcode/easy/mergeSplite.md) - 2020-08-11
 * [vim 安装fzf](https://github.com/fulln/TIL/blob/master/vim/vim_plugins_fzf.md) - 2020-07-28
 * [使用react+next+material 构建前端](https://github.com/fulln/TIL/blob/master/react/react_next.md) - 2020-07-31
 * [上传jar包到本地maven库](https://github.com/fulln/TIL/blob/master/maven/mavenDeploy.md) - 2020-08-05
