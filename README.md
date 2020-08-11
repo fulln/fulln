@@ -30,7 +30,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 </td><td valign="top"> 
 
 ### Recent TIL
-
+:bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
 * [删除排序链表中的重复元素](https://github.com/fulln/TIL/blob/master/leetcode/easy/deleteDuplicate.md) - 2020-08-10
 * [vim 安装fzf](https://github.com/fulln/TIL/blob/master/vim/vim_plugins_fzf.md) - 2020-07-28
