@@ -32,7 +32,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
-* [对称二叉树](https://github.com/fulln/TIL/blob/master/leetcode/easy/SameTreeNode.md) - 2020-08-13
+* [最大深度](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxDeep.md) - 2020-08-14
 * [vim 安装fzf](https://github.com/fulln/TIL/blob/master/vim/vim_plugins_fzf.md) - 2020-07-28
 * [使用react+next+material 构建前端](https://github.com/fulln/TIL/blob/master/react/react_next.md) - 2020-07-31
 * [上传jar包到本地maven库](https://github.com/fulln/TIL/blob/master/maven/mavenDeploy.md) - 2020-08-05
