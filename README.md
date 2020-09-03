@@ -32,11 +32,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [反转链表](https://github.com/fulln/TIL/blob/master/leetcode/easy/reverseList.md) - 2020-09-04
 * [阶乘后的零](https://github.com/fulln/TIL/blob/master/leetcode/easy/trailingZeroes.md) - 2020-09-02
 * [Excel表列序号](https://github.com/fulln/TIL/blob/master/leetcode/easy/titleToNumber.md) - 2020-09-02
 * [钥匙和房间](https://github.com/fulln/TIL/blob/master/leetcode/easy/canVisitAllRooms.md) - 2020-09-01
 * [多数元素](https://github.com/fulln/TIL/blob/master/leetcode/easy/majorityElement.md) - 2020-08-30
-* [反转字符串中的单词 III](https://github.com/fulln/TIL/blob/master/leetcode/easy/reverseWords.md) - 2020-08-30
 <!-- recent_TIL ends -->
 
 </td></tr></table>
