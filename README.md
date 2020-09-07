@@ -32,11 +32,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [合并排序的数组](https://github.com/fulln/TIL/blob/master/leetcode/easy/merge.md) - 2020-09-07
 * [移动零](https://github.com/fulln/TIL/blob/master/leetcode/easy/moveZeroes.md) - 2020-09-06
 * [和为s的连续正数序列](https://github.com/fulln/TIL/blob/master/leetcode/easy/findContinuousSequence.md) - 2020-09-05
 * [用队列实现栈](https://github.com/fulln/TIL/blob/master/leetcode/easy/MyStack.md) - 2020-09-04
 * [反转链表](https://github.com/fulln/TIL/blob/master/leetcode/easy/reverseList.md) - 2020-09-04
-* [阶乘后的零](https://github.com/fulln/TIL/blob/master/leetcode/easy/trailingZeroes.md) - 2020-09-02
 <!-- recent_TIL ends -->
 
 </td></tr></table>
