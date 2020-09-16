@@ -32,11 +32,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [mysql 事务锁相关查看](https://github.com/fulln/TIL/blob/master/sql/qeury_transaction.md) - 2020-09-16
 * [判断子序列](https://github.com/fulln/TIL/blob/master/leetcode/easy/isSubsequence.md) - 2020-09-15
 * [二叉树的中序遍历](https://github.com/fulln/TIL/blob/master/leetcode/middle/inorderTraversal.md) - 2020-09-14
 * [剑指 Offer 40. 最小的k个数](https://github.com/fulln/TIL/blob/master/leetcode/easy/getLeastNumbersK.md) - 2020-09-12
 * [钥匙和房间](https://github.com/fulln/TIL/blob/master/leetcode/middle/canVisitAllRooms.md) - 2020-09-11
-* [分糖果 II](https://github.com/fulln/TIL/blob/master/leetcode/easy/distributeCandies.md) - 2020-09-10
 <!-- recent_TIL ends -->
 
 </td></tr></table>
