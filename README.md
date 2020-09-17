@@ -32,11 +32,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [链表的中间结点](https://github.com/fulln/TIL/blob/master/leetcode/easy/middleNode.md) - 2020-09-17
 * [最长回文串](https://github.com/fulln/TIL/blob/master/leetcode/easy/longestPalindrome.md) - 2020-09-17
 * [翻转二叉树](https://github.com/fulln/TIL/blob/master/leetcode/easy/invertTree.md) - 2020-09-16
 * [mysql 事务锁相关查看](https://github.com/fulln/TIL/blob/master/sql/qeury_transaction.md) - 2020-09-16
 * [判断子序列](https://github.com/fulln/TIL/blob/master/leetcode/easy/isSubsequence.md) - 2020-09-15
-* [二叉树的中序遍历](https://github.com/fulln/TIL/blob/master/leetcode/middle/inorderTraversal.md) - 2020-09-14
 <!-- recent_TIL ends -->
 
 </td></tr></table>
