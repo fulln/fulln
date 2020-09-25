@@ -25,8 +25,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <!-- recent_blogs ends -->
 
 > NOTICE </br>
-> recently ,i havn't copy my blog on <a>fulln.me</a> . but i wrote and update to my github [repositories](https://github.com/fulln/dailyLog)
-
+> recently ,i havn't copy my blog on <a>fulln.me</a> . <a>https://www.cnblogs.com/wzqshb/ </a> can see i wrote these year  
 </td><td valign="top"> 
 
 ### Recent TIL
