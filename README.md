@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [判定字符是否唯一](https://github.com/fulln/TIL/blob/master/leetcode/easy/isUnique.md) - 2020-09-27
 * [路径总和 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/pathSum.md) - 2020-09-26
 * [剑指 Offer 05. 替换空格](https://github.com/fulln/TIL/blob/master/leetcode/easy/replaceSpace.md) - 2020-09-26
 * [二叉搜索树中的众数](https://github.com/fulln/TIL/blob/master/leetcode/middle/findMode.md) - 2020-09-25
 * [git 版本的回滚](https://github.com/fulln/TIL/blob/master/git/gitreset.md) - 2020-09-23
-* [合并二叉树](https://github.com/fulln/TIL/blob/master/leetcode/easy/mergeTrees.md) - 2020-09-23
 <!-- recent_TIL ends -->
 
 </td></tr></table>
