@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [颠倒二进制位](https://github.com/fulln/TIL/blob/master/leetcode/easy/reverseBits.md) - 2020-10-03
 * [剑指 Offer 06. 从尾到头打印链表](https://github.com/fulln/TIL/blob/master/leetcode/easy/reversePrint.md) - 2020-09-30
 * [二叉树的后序遍历](https://github.com/fulln/TIL/blob/master/leetcode/easy/postorderTraversal.md) - 2020-09-29
 * [填充每个节点的下一个右侧节点指针 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/connect.md) - 2020-09-28
 * [判定字符是否唯一](https://github.com/fulln/TIL/blob/master/leetcode/easy/isUnique.md) - 2020-09-27
-* [路径总和 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/pathSum.md) - 2020-09-26
 <!-- recent_TIL ends -->
 
 </td></tr></table>
