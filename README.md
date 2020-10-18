@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [剑指 Offer 29. 顺时针打印矩阵](https://github.com/fulln/TIL/blob/master/leetcode/easy/spiralOrder.md) - 2020-10-18
 * [位1的个数](https://github.com/fulln/TIL/blob/master/leetcode/easy/hammingWeight.md) - 2020-10-16
 * [剑指 Offer 10- I. 斐波那契数列](https://github.com/fulln/TIL/blob/master/leetcode/easy/fib.md) - 2020-10-15
 * [快乐数](https://github.com/fulln/TIL/blob/master/leetcode/easy/isHappy.md) - 2020-10-14
 * [将数组分成和相等的三个部分](https://github.com/fulln/TIL/blob/master/leetcode/easy/canThreePartsEqualSum.md) - 2020-10-13
-* [剑指 Offer 11. 旋转数组的最小数字](https://github.com/fulln/TIL/blob/master/leetcode/easy/minArray.md) - 2020-10-12
 <!-- recent_TIL ends -->
 
 </td></tr></table>
