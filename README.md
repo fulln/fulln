@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [拼写单词](https://github.com/fulln/TIL/blob/master/leetcode/easy/countCharacters.md) - 2020-10-22
 * [二叉树的直径](https://github.com/fulln/TIL/blob/master/leetcode/easy/diameterOfBinaryTree.md) - 2020-10-21
 * [剑指 Offer 09. 用两个栈实现队列](https://github.com/fulln/TIL/blob/master/leetcode/easy/CQueue.md) - 2020-10-20
 * [CVE-2020-5421漏洞 spring相关代码探寻](https://github.com/fulln/TIL/blob/master/java/spring/CVE-2020-5421.md) - 2020-10-19
 * [剑指 Offer 29. 顺时针打印矩阵](https://github.com/fulln/TIL/blob/master/leetcode/easy/spiralOrder.md) - 2020-10-18
-* [位1的个数](https://github.com/fulln/TIL/blob/master/leetcode/easy/hammingWeight.md) - 2020-10-16
 <!-- recent_TIL ends -->
 
 </td></tr></table>
