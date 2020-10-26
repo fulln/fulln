@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://github.com/fulln/TIL/blob/master/leetcode/easy/exchange.md) - 2020-10-26
 * [两个数组的交集 II](https://github.com/fulln/TIL/blob/master/leetcode/easy/intersect.md) - 2020-10-26
 * [有效的字母异位词](https://github.com/fulln/TIL/blob/master/leetcode/easy/isAnagram.md) - 2020-10-25
 * [拥有最多糖果的孩子](https://github.com/fulln/TIL/blob/master/leetcode/easy/kidsWithCandies.md) - 2020-10-23
 * [拼写单词](https://github.com/fulln/TIL/blob/master/leetcode/easy/countCharacters.md) - 2020-10-22
-* [二叉树的直径](https://github.com/fulln/TIL/blob/master/leetcode/easy/diameterOfBinaryTree.md) - 2020-10-21
 <!-- recent_TIL ends -->
 
 </td></tr></table>
