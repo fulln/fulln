@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [面试题 01.02. 判定是否互为字符重排](https://github.com/fulln/TIL/blob/master/leetcode/easy/CheckPermutation.md) - 2020-10-30
 * [1207. 独一无二的出现次数](https://github.com/fulln/TIL/blob/master/leetcode/easy/uniqueOccurrences.md) - 2020-10-29
 * [JVM调优与GC](https://github.com/fulln/TIL/blob/master/java/jvm/JvmDaily1.md) - 2020-10-28
 * [144. 二叉树的前序遍历](https://github.com/fulln/TIL/blob/master/leetcode/middle/preorderTraversal.md) - 2020-10-28
 * [给定单向链表的头指针和一个要删除的节点的值，定义一个函数删除该节点。](https://github.com/fulln/TIL/blob/master/leetcode/easy/deleteNode.md) - 2020-10-27
-* [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://github.com/fulln/TIL/blob/master/leetcode/easy/exchange.md) - 2020-10-26
 <!-- recent_TIL ends -->
 
 </td></tr></table>
