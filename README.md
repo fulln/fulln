@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [剑指 Offer 42. 连续子数组的最大和](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxSubArray.md) - 2020-11-05
 * [剑指 Offer 27. 二叉树的镜像](https://github.com/fulln/TIL/blob/master/leetcode/easy/mirrorTree.md) - 2020-11-04
 * [203. 移除链表元素](https://github.com/fulln/TIL/blob/master/leetcode/easy/removeElements.md) - 2020-11-03
 * [463. 岛屿的周长](https://github.com/fulln/TIL/blob/master/leetcode/easy/islandPerimeter.md) - 2020-11-02
 * [JDK15视频发布会及新特性](https://github.com/fulln/TIL/blob/master/java/basic/JDK15.md) - 2020-11-01
-* [844. 比较含退格的字符串](https://github.com/fulln/TIL/blob/master/leetcode/easy/backspaceCompare.md) - 2020-10-31
 <!-- recent_TIL ends -->
 
 </td></tr></table>
