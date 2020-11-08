@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [有序数组的平方](https://github.com/fulln/TIL/blob/master/leetcode/easy/sortedSquares.md) - 2020-11-08
 * [字符串相加](https://github.com/fulln/TIL/blob/master/leetcode/easy/addStrings.md) - 2020-11-07
 * [剑指 Offer 42. 连续子数组的最大和](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxSubArray.md) - 2020-11-05
 * [剑指 Offer 27. 二叉树的镜像](https://github.com/fulln/TIL/blob/master/leetcode/easy/mirrorTree.md) - 2020-11-04
 * [203. 移除链表元素](https://github.com/fulln/TIL/blob/master/leetcode/easy/removeElements.md) - 2020-11-03
-* [463. 岛屿的周长](https://github.com/fulln/TIL/blob/master/leetcode/easy/islandPerimeter.md) - 2020-11-02
 <!-- recent_TIL ends -->
 
 </td></tr></table>
