@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [53 - I. 在排序数组中查找数字 I](https://github.com/fulln/TIL/blob/master/leetcode/easy/search.md) - 2020-11-12
 * [矩形重叠](https://github.com/fulln/TIL/blob/master/leetcode/easy/isRectangleOverlap.md) - 2020-11-11
 * [. 字符串的最大公因子](https://github.com/fulln/TIL/blob/master/leetcode/easy/gcdOfStrings.md) - 2020-11-10
 * [二叉搜索树的最近公共祖先](https://github.com/fulln/TIL/blob/master/leetcode/easy/lowestCommonAncestor.md) - 2020-11-09
 * [有序数组的平方](https://github.com/fulln/TIL/blob/master/leetcode/easy/sortedSquares.md) - 2020-11-08
-* [字符串相加](https://github.com/fulln/TIL/blob/master/leetcode/easy/addStrings.md) - 2020-11-07
 <!-- recent_TIL ends -->
 
 </td></tr></table>
