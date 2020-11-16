@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [剑指 Offer 59 - I. 滑动窗口的最大值](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxSlidingWindow.md) - 2020-11-16
 * [设计有序流](https://github.com/fulln/TIL/blob/master/leetcode/easy/OrderedStream.md) - 2020-11-15
 * [5603. 确定两个字符串是否接近](https://github.com/fulln/TIL/blob/master/leetcode/middle/closeStrings.md) - 2020-11-15
 * [spring-data-redis](https://github.com/fulln/TIL/blob/master/java/spring/springDataRedis.md) - 2020-11-14
 * [windows 中cmd 相关的操作](https://github.com/fulln/TIL/blob/master/windows/shellOption.md) - 2020-11-14
-* [spring-quartz 使用](https://github.com/fulln/TIL/blob/master/java/spring/spring-quartz.md) - 2020-11-14
 <!-- recent_TIL ends -->
 
 </td></tr></table>
