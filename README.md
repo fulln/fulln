@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [999. 可以被一步捕获的棋子数](https://github.com/fulln/TIL/blob/master/leetcode/easy/numRookCaptures.md) - 2020-11-26
 * [941. 有效的山脉数组](https://github.com/fulln/TIL/blob/master/leetcode/easy/validMountainArray.md) - 2020-11-25
 * [二叉树的层序遍历](https://github.com/fulln/TIL/blob/master/leetcode/middle/levelOrder.md) - 2020-11-24
 * [卡牌分组](https://github.com/fulln/TIL/blob/master/leetcode/easy/hasGroupsSizeX.md) - 2020-11-23
 * [5606. 具有给定数值的最小字符串](https://github.com/fulln/TIL/blob/master/leetcode/middle/getSmallestString.md) - 2020-11-22
-* [验证回文字符串 Ⅱ](https://github.com/fulln/TIL/blob/master/leetcode/easy/validPalindrome.md) - 2020-11-19
 <!-- recent_TIL ends -->
 
 </td></tr></table>
