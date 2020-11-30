@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [把字符串转换成整数](https://github.com/fulln/TIL/blob/master/leetcode/middle/strToInt.md) - 2020-11-30
 * [有效的数独](https://github.com/fulln/TIL/blob/master/leetcode/easy/isValidSudoku.md) - 2020-11-29
 * [字符串中的第一个唯一字符](https://github.com/fulln/TIL/blob/master/leetcode/easy/firstUniqChar.md) - 2020-11-27
 * [999. 可以被一步捕获的棋子数](https://github.com/fulln/TIL/blob/master/leetcode/easy/numRookCaptures.md) - 2020-11-26
 * [941. 有效的山脉数组](https://github.com/fulln/TIL/blob/master/leetcode/easy/validMountainArray.md) - 2020-11-25
-* [二叉树的层序遍历](https://github.com/fulln/TIL/blob/master/leetcode/middle/levelOrder.md) - 2020-11-24
 <!-- recent_TIL ends -->
 
 </td></tr></table>
