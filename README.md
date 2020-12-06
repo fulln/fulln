@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [K 和数对的最大数目](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxOperations.md) - 2020-12-06
 * [第一个错误的版本](https://github.com/fulln/TIL/blob/master/leetcode/middle/firstBadVersion.md) - 2020-12-05
 * [验证二叉搜索树](https://github.com/fulln/TIL/blob/master/leetcode/easy/isValidBST.md) - 2020-12-02
 * [删除链表的倒数第N个节点](https://github.com/fulln/TIL/blob/master/leetcode/easy/removeNthFromEnd.md) - 2020-12-01
 * [把字符串转换成整数](https://github.com/fulln/TIL/blob/master/leetcode/middle/strToInt.md) - 2020-11-30
-* [有效的数独](https://github.com/fulln/TIL/blob/master/leetcode/easy/isValidSudoku.md) - 2020-11-29
 <!-- recent_TIL ends -->
 
 </td></tr></table>
