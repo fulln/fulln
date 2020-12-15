@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [回文排列](https://github.com/fulln/TIL/blob/master/leetcode/easy/canPermutePalindrome.md) - 2020-12-16
 * [最长回文子串](https://github.com/fulln/TIL/blob/master/leetcode/middle/longestPalindrome.md) - 2020-12-14
 * [剑指 Offer 62. 圆圈中最后剩下的数字](https://github.com/fulln/TIL/blob/master/leetcode/easy/lastRemaining.md) - 2020-12-13
 * [无重复字符的最长子串](https://github.com/fulln/TIL/blob/master/leetcode/easy/lengthOfLongestSubstring.md) - 2020-12-11
 * [存在重复元素 II](https://github.com/fulln/TIL/blob/master/leetcode/easy/containsNearbyDuplicate.md) - 2020-12-10
-* [字母异位词分组](https://github.com/fulln/TIL/blob/master/leetcode/middle/groupAnagrams.md) - 2020-12-08
 <!-- recent_TIL ends -->
 
 </td></tr></table>
