@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [奇偶链表](https://github.com/fulln/TIL/blob/master/leetcode/middle/oddEvenList.md) - 2020-12-23
 * [下一个更大元素 I](https://github.com/fulln/TIL/blob/master/leetcode/easy/nextGreaterElement.md) - 2020-12-21
 * [删除子数组的最大得分](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumUniqueSubarray.md) - 2020-12-20
 * [反转字符串中的元音字母](https://github.com/fulln/TIL/blob/master/leetcode/easy/reverseVowels.md) - 2020-12-18
 * [计数质数](https://github.com/fulln/TIL/blob/master/leetcode/easy/countPrimes.md) - 2020-12-17
-* [重新排列数组](https://github.com/fulln/TIL/blob/master/leetcode/easy/shuffle.md) - 2020-12-16
 <!-- recent_TIL ends -->
 
 </td></tr></table>
