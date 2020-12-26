@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [跳水板](https://github.com/fulln/TIL/blob/master/leetcode/easy/divingBoard.md) - 2020-12-26
 * [找到所有数组中消失的数字](https://github.com/fulln/TIL/blob/master/leetcode/easy/findDisappearedNumbers.md) - 2020-12-25
 * [860. 柠檬水找零](https://github.com/fulln/TIL/blob/master/leetcode/easy/lemonadeChange.md) - 2020-12-24
 * [奇偶链表](https://github.com/fulln/TIL/blob/master/leetcode/middle/oddEvenList.md) - 2020-12-23
 * [下一个更大元素 I](https://github.com/fulln/TIL/blob/master/leetcode/easy/nextGreaterElement.md) - 2020-12-21
-* [删除子数组的最大得分](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumUniqueSubarray.md) - 2020-12-20
 <!-- recent_TIL ends -->
 
 </td></tr></table>
