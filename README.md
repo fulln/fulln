@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [二叉搜索树中第K小的元素](https://github.com/fulln/TIL/blob/master/leetcode/middle/kthSmallest.md) - 2021-01-07
 * [从前序与中序遍历序列构造二叉树](https://github.com/fulln/TIL/blob/master/leetcode/middle/buildTree.md) - 2021-01-06
 * [第三大的数](https://github.com/fulln/TIL/blob/master/leetcode/easy/thirdMax.md) - 2021-01-03
 * [好数对的数目](https://github.com/fulln/TIL/blob/master/leetcode/easy/numIdenticalPairs.md) - 2021-01-02
 * [另一个树的子树](https://github.com/fulln/TIL/blob/master/leetcode/easy/isSubtree.md) - 2020-12-31
-* [二叉树的锯齿形层次遍历](https://github.com/fulln/TIL/blob/master/leetcode/middle/zigzagLevelOrder.md) - 2020-12-30
 <!-- recent_TIL ends -->
 
 </td></tr></table>
