@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [全排列](https://github.com/fulln/TIL/blob/master/leetcode/middle/permute.md) - 2021-01-11
 * [括号生成](https://github.com/fulln/TIL/blob/master/leetcode/middle/generateParenthesis.md) - 2021-01-10
 * [电话号码的字母组合](https://github.com/fulln/TIL/blob/master/leetcode/middle/letterCombinations.md) - 2021-01-09
 * [Transaction resolution unknown 异常分析](https://github.com/fulln/TIL/blob/master/sql/transactions-unkonw.md) - 2021-01-08
 * [二叉搜索树中第K小的元素](https://github.com/fulln/TIL/blob/master/leetcode/middle/kthSmallest.md) - 2021-01-07
-* [从前序与中序遍历序列构造二叉树](https://github.com/fulln/TIL/blob/master/leetcode/middle/buildTree.md) - 2021-01-06
 <!-- recent_TIL ends -->
 
 </td></tr></table>
