@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [前 K 个高频元素](https://github.com/fulln/TIL/blob/master/leetcode/middle/topKFrequent.md) - 2021-01-16
 * [springMvc升级springBoot](https://github.com/fulln/TIL/blob/master/java/spring/upgradeMvc.md) - 2021-01-15
 * [颜色分类](https://github.com/fulln/TIL/blob/master/leetcode/middle/sortColors.md) - 2021-01-13
 * [单词搜索](https://github.com/fulln/TIL/blob/master/leetcode/middle/exist.md) - 2021-01-12
 * [全排列](https://github.com/fulln/TIL/blob/master/leetcode/middle/permute.md) - 2021-01-11
-* [括号生成](https://github.com/fulln/TIL/blob/master/leetcode/middle/generateParenthesis.md) - 2021-01-10
 <!-- recent_TIL ends -->
 
 </td></tr></table>
