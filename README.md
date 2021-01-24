@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [寻找峰值](https://github.com/fulln/TIL/blob/master/leetcode/middle/findPeakElement.md) - 2021-01-24
 * [mapStruct 开发使用](https://github.com/fulln/TIL/blob/master/java/plug/mapStructInUse.md) - 2021-01-23
 * [重复的子字符串](https://github.com/fulln/TIL/blob/master/leetcode/easy/repeatedSubstringPattern.md) - 2021-01-21
 * [Alter Table 操作执行过程](https://github.com/fulln/TIL/blob/master/sql/alterTable.md) - 2021-01-20
 * [排列硬币](https://github.com/fulln/TIL/blob/master/leetcode/easy/arrangeCoins.md) - 2021-01-19
-* [剑指 Offer 61. 扑克牌中的顺子](https://github.com/fulln/TIL/blob/master/leetcode/easy/isStraight.md) - 2021-01-19
 <!-- recent_TIL ends -->
 
 </td></tr></table>
