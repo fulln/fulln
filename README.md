@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [切蛋糕](https://github.com/fulln/TIL/blob/master/leetcode/easy/cutCandy.md) - 2021-03-31
 * [3的幂](https://github.com/fulln/TIL/blob/master/leetcode/middle/isPowerOfThree.md) - 2021-03-31
 * [直线上最多的点数](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxPoints.md) - 2021-03-29
 * [redis setnx setex](https://github.com/fulln/TIL/blob/master/redis/redisCommand.md) - 2021-03-25
 * [java 看加载的class 的来源](https://github.com/fulln/TIL/blob/master/java/basic/getsourceFile.md) - 2021-03-25
-* [二叉搜索树中的插入操作](https://github.com/fulln/TIL/blob/master/leetcode/middle/insertIntoBST.md) - 2021-03-25
 <!-- recent_TIL ends -->
 
 </td></tr></table>
