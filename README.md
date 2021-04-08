@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [寻找旋转排序数组中的最小值](https://github.com/fulln/TIL/blob/master/leetcode/easy/findMin.md) - 2021-04-08
 * [删除有序数组中的重复项 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/removeDuplicates.md) - 2021-04-07
 * [美式键盘](https://github.com/fulln/TIL/blob/master/leetcode/easy/findWords.md) - 2021-04-02
 * [加油站](https://github.com/fulln/TIL/blob/master/leetcode/middle/canCompleteCircuit.md) - 2021-04-01
 * [切蛋糕](https://github.com/fulln/TIL/blob/master/leetcode/easy/cutCandy.md) - 2021-03-31
-* [3的幂](https://github.com/fulln/TIL/blob/master/leetcode/middle/isPowerOfThree.md) - 2021-03-31
 <!-- recent_TIL ends -->
 
 </td></tr></table>
