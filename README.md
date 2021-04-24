@@ -31,11 +31,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
 :bulb: derived from [here](https://github.com/fulln/TIL)
 <!-- recent_TIL starts -->
+* [二叉树展开为链表](https://github.com/fulln/TIL/blob/master/leetcode/middle/flatten.md) - 2021-04-24
 * [最大整除子集](https://github.com/fulln/TIL/blob/master/leetcode/middle/largestDivisibleSubset.md) - 2021-04-23
 * [最长连续递增序列](https://github.com/fulln/TIL/blob/master/leetcode/easy/findLengthOfLCIS.md) - 2021-04-22
 * [复原 IP 地址](https://github.com/fulln/TIL/blob/master/leetcode/middle/restoreIpAddresses.md) - 2021-04-21
 * [使数组互补的最少操作次数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minMoves.md) - 2021-04-19
-* [种花问题](https://github.com/fulln/TIL/blob/master/leetcode/easy/canPlaceFlowers.md) - 2021-04-18
 <!-- recent_TIL ends -->
 
 </td></tr></table>
