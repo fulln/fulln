@@ -24,9 +24,9 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <!-- recent_blogs starts -->
 
 <!-- recent_blogs ends -->
-
-> NOTICE </br>
-> recently ,i havn't copy my blog on <a>fulln.me</a> . <a>https://www.cnblogs.com/wzqshb/ </a> can see i wrote these year  
+ 
+> More on <a>https://www.cnblogs.com/wzqshb/ </a>
+ 
 </td><td valign="top"> 
 
 ### Recent TIL
