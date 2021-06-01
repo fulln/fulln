@@ -10,7 +10,7 @@ or
 ### Recent releases
 
 <!-- recent_releases starts -->
-* [locks ](https://github.com/fulln/locks/releases/tag/scriptRunner) - 2021-06-01
+* [locks scriptRunner](https://github.com/fulln/locks/releases/tag/scriptRunner) - 2021-06-01
 * [sampleScrips login automatically!](https://github.com/fulln/sampleScrips/releases/tag/shell1.0) - 2020-09-03
 * [proxys 2.0.0-RELEASE](https://github.com/fulln/proxys/releases/tag/2.0.0) - 2020-07-31
 <!-- recent_releases ends -->
