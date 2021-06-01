@@ -1,4 +1,6 @@
 from python_graphql_client import GraphqlClient
+from bs4 import BeautifulSoup
+import requests
 import feedparser
 import httpx
 import json
