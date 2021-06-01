@@ -100,16 +100,10 @@ def fetch_tils():
     ).json()
 
 
-# def fetch_blog_entries():
-#     entries = feedparser.parse("https://simonwillison.net/atom/entries/")["entries"]
-#     return [
-#         {
-#             "title": entry["title"],
-#             "url": entry["link"].split("#")[0],
-#             "published": entry["published"].split("T")[0],
-#         }
-#         for entry in entries
-#     ]
+def fetch_blog_entries():
+    doc = requests.get("https://www.cnblogs.com/wzqshb/ajax/TopLists.aspx")
+    entries = BeautifulSoup(str(doc.content,'utf-8'), 'html.parser').find(id="TopViewPostsBlock")
+    return entries
 
 
 if __name__ == "__main__":
@@ -149,10 +143,8 @@ if __name__ == "__main__":
     tils_md = "\n".join(tils['top'])
     rewritten = replace_chunk(rewritten, "recent_TIL", tils_md)
 
-    # entries = fetch_blog_entries()[:5]
-    # entries_md = "\n".join(
-    #     ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
-    # )
-    # rewritten = replace_chunk(rewritten, "blog", entries_md)
+    entries = fetch_blog_entries()
+    rewritten = replace_chunk(rewritten, "recent_blogs", entries)
+
 
     readme.open("w").write(rewritten)
