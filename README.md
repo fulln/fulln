@@ -31,7 +31,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 </li>
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/11778598.html">
-                            2. datax分析与思考(一)(1112)
+                            2. datax分析与思考(一)(1113)
                         </a>
 </li>
 <li>
