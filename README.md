@@ -26,7 +26,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <ul style="word-break:break-all">
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/7239841.html">
-                            1. python 读取文件夹中的文件内容(28404)
+                            1. python 读取文件夹中的文件内容(28406)
                         </a>
 </li>
 <li>
@@ -36,7 +36,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 </li>
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/6928461.html">
-                            3. jedis 连接 虚拟机内redis服务(602)
+                            3. jedis 连接 虚拟机内redis服务(604)
                         </a>
 </li>
 <li>
