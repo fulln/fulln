@@ -41,7 +41,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 </li>
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/11774767.html">
-                            4. beanfactory中单例bean的初始化过程（一）(574)
+                            4. beanfactory中单例bean的初始化过程（一）(575)
                         </a>
 </li>
 <li>
