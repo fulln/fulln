@@ -26,12 +26,12 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <ul style="word-break:break-all">
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/7239841.html">
-                            1. python 读取文件夹中的文件内容(28441)
+                            1. python 读取文件夹中的文件内容(28443)
                         </a>
 </li>
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/11778598.html">
-                            2. datax分析与思考(一)(1114)
+                            2. datax分析与思考(一)(1115)
                         </a>
 </li>
 <li>
@@ -60,11 +60,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [比较字符串最小字母出现频次](https://github.com/fulln/TIL/blob/master/leetcode/middle/numSmallerByFrequency.md) - 2021-06-04
 * [最深叶节点的最近公共祖先](https://github.com/fulln/TIL/blob/master/leetcode/middle/lcaDeepestLeaves.md) - 2021-06-03
 * [连续的子数组和](https://github.com/fulln/TIL/blob/master/leetcode/middle/checkSubarraySum.md) - 2021-06-02
 * [使用mybatis 自动执行脚本](https://github.com/fulln/TIL/blob/master/java/mysql/MysqlInit.md) - 2021-06-02
 * [区间子数组个数](https://github.com/fulln/TIL/blob/master/leetcode/middle/numSubarrayBoundedMax.md) - 2021-05-31
-* [完全平方数](https://github.com/fulln/TIL/blob/master/leetcode/middle/numSquares.md) - 2021-05-30
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
