@@ -26,7 +26,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <ul style="word-break:break-all">
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/7239841.html">
-                            1. python 读取文件夹中的文件内容(28450)
+                            1. python 读取文件夹中的文件内容(28452)
                         </a>
 </li>
 <li>
