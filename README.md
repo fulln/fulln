@@ -36,7 +36,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 </li>
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/6928461.html">
-                            3. jedis 连接 虚拟机内redis服务(606)
+                            3. jedis 连接 虚拟机内redis服务(607)
                         </a>
 </li>
 <li>
