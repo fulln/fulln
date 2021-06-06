@@ -103,8 +103,8 @@ def fetch_tils():
 
 
 def fetch_blog_entries():
-    doc = requests.get("https://www.cnblogs.com/wzqshb/ajax/TopLists.aspx")
-    entries = BeautifulSoup(str(doc.content,'utf-8'), 'html.parser').find(id="TopViewPostsBlock")
+    doc = requests.get("https://www.cnblogs.com/wzqshb/ajax/sidecolumn.aspx")
+    entries = BeautifulSoup(str(doc.content,'utf-8'), 'html.parser').find(id="sidebar_recentposts")
     return entries
 
 
