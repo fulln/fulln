@@ -10,7 +10,7 @@ or
 ### Recent releases
 
 <!-- recent_releases starts -->
-* [locks scriptRunner](https://github.com/fulln/locks/releases/tag/scriptRunner) - 2021-06-01
+* [locks distributed](https://github.com/fulln/locks/releases/tag/distributed) - 2021-06-06
 * [sampleScrips login automatically!](https://github.com/fulln/sampleScrips/releases/tag/shell1.0) - 2020-09-03
 * [proxys 2.0.0-RELEASE](https://github.com/fulln/proxys/releases/tag/2.0.0) - 2020-07-31
 <!-- recent_releases ends -->
@@ -22,34 +22,41 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent Blogs
 
 <!-- recent_blogs starts -->
-<div id="TopViewPostsBlock">
-<ul style="word-break:break-all">
+<div class="sidebar-block" id="sidebar_recentposts"><div class="catListEssay">
+<h3 class="catListTitle">最新随笔</h3>
+<ul>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/7239841.html">
-                            1. python 读取文件夹中的文件内容(28464)
-                        </a>
+<a href="https://www.cnblogs.com/wzqshb/p/14856569.html">1.分布式锁的各种实现</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/11778598.html">
-                            2. datax分析与思考(一)(1115)
-                        </a>
+<a href="https://www.cnblogs.com/wzqshb/p/14839588.html">2.使用mybatis 自动执行脚本</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/6928461.html">
-                            3. jedis 连接 虚拟机内redis服务(607)
-                        </a>
+<a href="https://www.cnblogs.com/wzqshb/p/14305905.html">3.Alter Table 操作遇见的坑</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/11774767.html">
-                            4. beanfactory中单例bean的初始化过程（一）(576)
-                        </a>
+<a href="https://www.cnblogs.com/wzqshb/p/13917137.html">4.JDK15视频会及新特性总节</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/6689467.html">
-                            5. 数据库存储过程项目总结(366)
-                        </a>
+<a href="https://www.cnblogs.com/wzqshb/p/11795787.html">5.设计模式之访问者模式</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/11778598.html">6.datax分析与思考(一)</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/11774767.html">7.beanfactory中单例bean的初始化过程（一）</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/11771499.html">8.@EnableTransactionalManager 发生了什么</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/7239841.html">9.python 读取文件夹中的文件内容</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/6928461.html">10.jedis 连接 虚拟机内redis服务</a>
 </li>
 </ul>
+</div>
 </div>
 <!-- recent_blogs ends -->
  
