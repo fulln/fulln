@@ -22,9 +22,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent Blogs
 
 <!-- recent_blogs starts -->
-<div class="sidebar-block" id="sidebar_recentposts"><div class="catListEssay">
-<h3 class="catListTitle">最新随笔</h3>
-<ul>
+[<ul>
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/14856569.html">1.分布式锁的各种实现</a>
 </li>
@@ -55,9 +53,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/6928461.html">10.jedis 连接 虚拟机内redis服务</a>
 </li>
-</ul>
-</div>
-</div>
+</ul>]
 <!-- recent_blogs ends -->
  
 > More on <a>https://www.cnblogs.com/wzqshb/ </a>
@@ -72,6 +68,11 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [连续的子数组和](https://github.com/fulln/TIL/blob/master/leetcode/middle/checkSubarraySum.md) - 2021-06-02
 * [使用mybatis 自动执行脚本](https://github.com/fulln/TIL/blob/master/java/mysql/MysqlInit.md) - 2021-06-02
 * [区间子数组个数](https://github.com/fulln/TIL/blob/master/leetcode/middle/numSubarrayBoundedMax.md) - 2021-05-31
+* [完全平方数](https://github.com/fulln/TIL/blob/master/leetcode/middle/numSquares.md) - 2021-05-30
+* [最少操作使数组递增](https://github.com/fulln/TIL/blob/master/leetcode/easy/minOperations.md) - 2021-05-29
+* [组合总和](https://github.com/fulln/TIL/blob/master/leetcode/middle/combinationSum.md) - 2021-05-28
+* [反转每对括号间的子串](https://github.com/fulln/TIL/blob/master/leetcode/middle/reverseParentheses.md) - 2021-05-26
+* [字典序排数](https://github.com/fulln/TIL/blob/master/leetcode/middle/lexicalOrder.md) - 2021-05-25
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
