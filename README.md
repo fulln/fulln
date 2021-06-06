@@ -22,7 +22,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent Blogs
 
 <!-- recent_blogs starts -->
-[<ul>
+<ul>
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/14856569.html">1.分布式锁的各种实现</a>
 </li>
@@ -53,7 +53,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <li>
 <a href="https://www.cnblogs.com/wzqshb/p/6928461.html">10.jedis 连接 虚拟机内redis服务</a>
 </li>
-</ul>]
+</ul>
 <!-- recent_blogs ends -->
  
 > More on <a>https://www.cnblogs.com/wzqshb/ </a>
