@@ -63,6 +63,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [动态规划](https://github.com/fulln/TIL/blob/master/algorithm/dpIntroduce.md) - 2021-06-12
 * [翻转矩阵后的得分](https://github.com/fulln/TIL/blob/master/leetcode/middle/matrixScore.md) - 2021-06-12
 * [比较版本号](https://github.com/fulln/TIL/blob/master/leetcode/middle/compareVersion.md) - 2021-06-10
 * [课程表 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/findOrder.md) - 2021-06-09
@@ -72,7 +73,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [比较字符串最小字母出现频次](https://github.com/fulln/TIL/blob/master/leetcode/middle/numSmallerByFrequency.md) - 2021-06-04
 * [最深叶节点的最近公共祖先](https://github.com/fulln/TIL/blob/master/leetcode/middle/lcaDeepestLeaves.md) - 2021-06-03
 * [连续的子数组和](https://github.com/fulln/TIL/blob/master/leetcode/middle/checkSubarraySum.md) - 2021-06-02
-* [使用mybatis 自动执行脚本](https://github.com/fulln/TIL/blob/master/java/mysql/MysqlInit.md) - 2021-06-02
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
