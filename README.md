@@ -63,6 +63,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [石子游戏](https://github.com/fulln/TIL/blob/master/leetcode/middle/stoneGame.md) - 2021-06-16
 * [减小和重新排列数组后的最大元素](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumElementAfterDecrementingAndRearranging.md) - 2021-06-15
 * [打家劫舍 III](https://github.com/fulln/TIL/blob/master/leetcode/middle/robIII.md) - 2021-06-14
 * [动态规划](https://github.com/fulln/TIL/blob/master/algorithm/dpIntroduce.md) - 2021-06-12
@@ -72,7 +73,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [最后一块石头的重量 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/lastStoneWeightII.md) - 2021-06-08
 * [目标和](https://github.com/fulln/TIL/blob/master/leetcode/middle/findTargetSumWays.md) - 2021-06-07
 * [一和零](https://github.com/fulln/TIL/blob/master/leetcode/middle/findMaxForm.md) - 2021-06-06
-* [比较字符串最小字母出现频次](https://github.com/fulln/TIL/blob/master/leetcode/middle/numSmallerByFrequency.md) - 2021-06-04
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
