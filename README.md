@@ -25,34 +25,34 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <!-- recent_blogs starts -->
 <ul>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/14878246.html">1.动态规划 思路思考</a>
+<a href="https://www.cnblogs.com/wzqshb/p/14907761.html">1.MapStruct 实践</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/14856569.html">2.分布式锁的各种实现</a>
+<a href="https://www.cnblogs.com/wzqshb/p/14878246.html">2.动态规划 思路思考</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/14839588.html">3.使用mybatis 自动执行脚本</a>
+<a href="https://www.cnblogs.com/wzqshb/p/14856569.html">3.分布式锁的各种实现</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/14305905.html">4.Alter Table 操作遇见的坑</a>
+<a href="https://www.cnblogs.com/wzqshb/p/14839588.html">4.使用mybatis 自动执行脚本</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/13917137.html">5.JDK15视频会及新特性总节</a>
+<a href="https://www.cnblogs.com/wzqshb/p/14305905.html">5.Alter Table 操作遇见的坑</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/11795787.html">6.设计模式之访问者模式</a>
+<a href="https://www.cnblogs.com/wzqshb/p/13917137.html">6.JDK15视频会及新特性总节</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/11778598.html">7.datax分析与思考(一)</a>
+<a href="https://www.cnblogs.com/wzqshb/p/11795787.html">7.设计模式之访问者模式</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/11774767.html">8.beanfactory中单例bean的初始化过程（一）</a>
+<a href="https://www.cnblogs.com/wzqshb/p/11778598.html">8.datax分析与思考(一)</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/11771499.html">9.@EnableTransactionalManager 发生了什么</a>
+<a href="https://www.cnblogs.com/wzqshb/p/11774767.html">9.beanfactory中单例bean的初始化过程（一）</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/7239841.html">10.python 读取文件夹中的文件内容</a>
+<a href="https://www.cnblogs.com/wzqshb/p/11771499.html">10.@EnableTransactionalManager 发生了什么</a>
 </li>
 </ul>
 <!-- recent_blogs ends -->
