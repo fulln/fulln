@@ -10,6 +10,7 @@ or
 ### Recent releases
 
 <!-- recent_releases starts -->
+* [converter ](https://github.com/fulln/converter/releases/tag/1.0.0) - 2021-06-20
 * [locks distributed](https://github.com/fulln/locks/releases/tag/distributed) - 2021-06-06
 * [sampleScrips login automatically!](https://github.com/fulln/sampleScrips/releases/tag/shell1.0) - 2020-09-03
 * [proxys 2.0.0-RELEASE](https://github.com/fulln/proxys/releases/tag/2.0.0) - 2020-07-31
