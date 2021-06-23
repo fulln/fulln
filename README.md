@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [划分为k个相等的子集](https://github.com/fulln/TIL/blob/master/leetcode/middle/canPartitionKSubsets.md) - 2021-06-23
 * [基本计算器](https://github.com/fulln/TIL/blob/master/leetcode/hard/calculate.md) - 2021-06-21
 * [子序列宽度之和](https://github.com/fulln/TIL/blob/master/leetcode/hard/sumSubseqWidths.md) - 2021-06-20
 * [按递增顺序显示卡牌](https://github.com/fulln/TIL/blob/master/leetcode/middle/deckRevealedIncreasing.md) - 2021-06-19
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [打家劫舍 III](https://github.com/fulln/TIL/blob/master/leetcode/middle/robIII.md) - 2021-06-14
 * [动态规划](https://github.com/fulln/TIL/blob/master/algorithm/dpIntroduce.md) - 2021-06-12
 * [翻转矩阵后的得分](https://github.com/fulln/TIL/blob/master/leetcode/middle/matrixScore.md) - 2021-06-12
-* [比较版本号](https://github.com/fulln/TIL/blob/master/leetcode/middle/compareVersion.md) - 2021-06-10
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
