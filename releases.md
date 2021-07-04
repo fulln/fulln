@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->5<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[logHelper](https://github.com/fulln/logHelper)**: [first_init](https://github.com/fulln/logHelper/releases/tag/1.0.0) - 2021-07-04
+<br>None
 * **[docker-develop-env](https://github.com/fulln/docker-develop-env)**: [docker-env](https://github.com/fulln/docker-develop-env/releases/tag/1.0.0) - 2021-06-27
 <br>一些开发环境的docker配置
 * **[converter](https://github.com/fulln/converter)**: [](https://github.com/fulln/converter/releases/tag/1.0.0) - 2021-06-20
