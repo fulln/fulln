@@ -65,6 +65,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [剑指 Offer 13. 机器人的运动范围](https://github.com/fulln/TIL/blob/master/leetcode/middle/movingCount.md) - 2021-07-09
 * [从中序与后序遍历序列构造二叉树](https://github.com/fulln/TIL/blob/master/leetcode/middle/buildTreeAfter.md) - 2021-07-08
 * [字符串的排列](https://github.com/fulln/TIL/blob/master/leetcode/middle/checkInclusion.md) - 2021-07-07
 * [点菜展示表](https://github.com/fulln/TIL/blob/master/leetcode/middle/displayTable.md) - 2021-07-06
@@ -74,7 +75,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [恢复空格](https://github.com/fulln/TIL/blob/master/leetcode/middle/respace.md) - 2021-07-01
 * [二叉树染色](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxValue.md) - 2021-06-29
 * [mysql的JSON字段类型](https://github.com/fulln/TIL/blob/master/sql/mysqlJSON.md) - 2021-06-28
-* [安排电影院座位](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxNumberOfFamilies.md) - 2021-06-24
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
