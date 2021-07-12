@@ -1,7 +1,6 @@
 ## About me
 
-Currently working in SHENZHEN. CHINA ,Read [my blog](https://fulln.me) 
-or 
+Currently working in SHENZHEN. CHINA 
  - chat me with qq: 245193247
  - [follow @fulln on Twitter](https://twitter.com/fulln16).
 <table><tr><td valign="top">
