@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [H 指数 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/hindex.md) - 2021-07-12
 * [困于环中的机器人](https://github.com/fulln/TIL/blob/master/leetcode/middle/isRobotBounded.md) - 2021-07-11
 * [剑指 Offer 13. 机器人的运动范围](https://github.com/fulln/TIL/blob/master/leetcode/middle/movingCount.md) - 2021-07-09
 * [从中序与后序遍历序列构造二叉树](https://github.com/fulln/TIL/blob/master/leetcode/middle/buildTreeAfter.md) - 2021-07-08
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [SpringMVC全局日志](https://github.com/fulln/TIL/blob/master/java/spring/RequestBodyAdviceAdapter.md) - 2021-07-04
 * [根据字符出现频率排序](https://github.com/fulln/TIL/blob/master/leetcode/middle/frequencySort.md) - 2021-07-03
 * [恢复空格](https://github.com/fulln/TIL/blob/master/leetcode/middle/respace.md) - 2021-07-01
-* [二叉树染色](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxValue.md) - 2021-06-29
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
