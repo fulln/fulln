@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [输出stirng的所有排序](https://github.com/fulln/TIL/blob/master/leetcode/middle/permutation.md) - 2021-07-20
 * [栈的压入,弹出](https://github.com/fulln/TIL/blob/master/leetcode/middle/validateStackSequences.md) - 2021-07-19
 * [把数组排成最小的数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minNumber.md) - 2021-07-18
 * [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/fulln/TIL/blob/master/leetcode/middle/treeToDoublyList.md) - 2021-07-17
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [剑指 Offer 26. 树的子结构](https://github.com/fulln/TIL/blob/master/leetcode/middle/isSubStructure.md) - 2021-07-13
 * [H 指数 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/hindex.md) - 2021-07-12
 * [困于环中的机器人](https://github.com/fulln/TIL/blob/master/leetcode/middle/isRobotBounded.md) - 2021-07-11
-* [剑指 Offer 13. 机器人的运动范围](https://github.com/fulln/TIL/blob/master/leetcode/middle/movingCount.md) - 2021-07-09
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
