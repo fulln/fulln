@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [剑指 Offer 49. 丑数](https://github.com/fulln/TIL/blob/master/leetcode/middle/nthUglyNumber.md) - 2021-07-23
 * [剑指 Offer 47. 礼物的最大价值](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxValue2.md) - 2021-07-22
 * [剑指 Offer 44. 数字序列中某一位的数字](https://github.com/fulln/TIL/blob/master/leetcode/middle/findNthDigit.md) - 2021-07-21
 * [mybatis-plus 通过lambda 获取属性名](https://github.com/fulln/TIL/blob/master/java/plug/mybatisPlus.md) - 2021-07-21
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/fulln/TIL/blob/master/leetcode/middle/treeToDoublyList.md) - 2021-07-17
 * [ThreadLocal 解析](https://github.com/fulln/TIL/blob/master/java/basic/threadLocal.md) - 2021-07-16
 * [剑指 Offer 28. 对称的二叉树](https://github.com/fulln/TIL/blob/master/leetcode/easy/isSymmetric.md) - 2021-07-15
-* [剪绳子](https://github.com/fulln/TIL/blob/master/leetcode/middle/cuttingRope.md) - 2021-07-14
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
