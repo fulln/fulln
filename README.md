@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [剑指 Offer 60. n个骰子的点数](https://github.com/fulln/TIL/blob/master/leetcode/middle/dicesProbability.md) - 2021-07-27
 * [1713. 得到子序列的最少操作次数](https://github.com/fulln/TIL/blob/master/leetcode/hard/minOperations.md) - 2021-07-26
 * [从相邻元素对还原数组](https://github.com/fulln/TIL/blob/master/leetcode/middle/restoreArray.md) - 2021-07-25
 * [剑指 Offer 49. 丑数](https://github.com/fulln/TIL/blob/master/leetcode/middle/nthUglyNumber.md) - 2021-07-23
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [输出stirng的所有排序](https://github.com/fulln/TIL/blob/master/leetcode/middle/permutation.md) - 2021-07-20
 * [栈的压入,弹出](https://github.com/fulln/TIL/blob/master/leetcode/middle/validateStackSequences.md) - 2021-07-19
 * [把数组排成最小的数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minNumber.md) - 2021-07-18
-* [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/fulln/TIL/blob/master/leetcode/middle/treeToDoublyList.md) - 2021-07-17
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
