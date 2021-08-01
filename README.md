@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [不用加减乘除做加法](https://github.com/fulln/TIL/blob/master/leetcode/easy/add.md) - 2021-08-01
 * [下一个排列](https://github.com/fulln/TIL/blob/master/leetcode/middle/nextPermutation.md) - 2021-07-31
 * [求1+2+…+n](https://github.com/fulln/TIL/blob/master/leetcode/middle/sumNums.md) - 2021-07-30
 * [二叉树寻路](https://github.com/fulln/TIL/blob/master/leetcode/middle/pathInZigZagTree.md) - 2021-07-30
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [从相邻元素对还原数组](https://github.com/fulln/TIL/blob/master/leetcode/middle/restoreArray.md) - 2021-07-25
 * [剑指 Offer 49. 丑数](https://github.com/fulln/TIL/blob/master/leetcode/middle/nthUglyNumber.md) - 2021-07-23
 * [剑指 Offer 47. 礼物的最大价值](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxValue2.md) - 2021-07-22
-* [剑指 Offer 44. 数字序列中某一位的数字](https://github.com/fulln/TIL/blob/master/leetcode/middle/findNthDigit.md) - 2021-07-21
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
