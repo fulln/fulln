@@ -64,6 +64,9 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [kafka消息可靠性保证(二)](https://github.com/fulln/TIL/blob/master/kafka/kafkaReliability2.md) - 2021-08-02
+* [kafka消息可靠性保证(一)](https://github.com/fulln/TIL/blob/master/kafka/kafkaReliability.md) - 2021-08-02
+* [springCloudConfig 设置说明](https://github.com/fulln/TIL/blob/master/java/spring/springCloudConfig.md) - 2021-08-02
 * [不用加减乘除做加法](https://github.com/fulln/TIL/blob/master/leetcode/easy/add.md) - 2021-08-01
 * [下一个排列](https://github.com/fulln/TIL/blob/master/leetcode/middle/nextPermutation.md) - 2021-07-31
 * [求1+2+…+n](https://github.com/fulln/TIL/blob/master/leetcode/middle/sumNums.md) - 2021-07-30
@@ -71,9 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [剑指 Offer 63. 股票的最大利润](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxProfit.md) - 2021-07-28
 * [剑指 Offer 60. n个骰子的点数](https://github.com/fulln/TIL/blob/master/leetcode/middle/dicesProbability.md) - 2021-07-27
 * [1713. 得到子序列的最少操作次数](https://github.com/fulln/TIL/blob/master/leetcode/hard/minOperations.md) - 2021-07-26
-* [从相邻元素对还原数组](https://github.com/fulln/TIL/blob/master/leetcode/middle/restoreArray.md) - 2021-07-25
-* [剑指 Offer 49. 丑数](https://github.com/fulln/TIL/blob/master/leetcode/middle/nthUglyNumber.md) - 2021-07-23
-* [剑指 Offer 47. 礼物的最大价值](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxValue2.md) - 2021-07-22
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
