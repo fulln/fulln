@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [有效三角形的个数](https://github.com/fulln/TIL/blob/master/leetcode/middle/triangleNumber.md) - 2021-08-04
 * [. 最短无序连续子数组](https://github.com/fulln/TIL/blob/master/leetcode/middle/findUnsortedSubarray.md) - 2021-08-03
 * [kafka消息可靠性保证(二)](https://github.com/fulln/TIL/blob/master/kafka/kafkaReliability2.md) - 2021-08-02
 * [kafka消息可靠性保证(一)](https://github.com/fulln/TIL/blob/master/kafka/kafkaReliability.md) - 2021-08-02
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [求1+2+…+n](https://github.com/fulln/TIL/blob/master/leetcode/middle/sumNums.md) - 2021-07-30
 * [二叉树寻路](https://github.com/fulln/TIL/blob/master/leetcode/middle/pathInZigZagTree.md) - 2021-07-30
 * [剑指 Offer 63. 股票的最大利润](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxProfit.md) - 2021-07-28
-* [剑指 Offer 60. n个骰子的点数](https://github.com/fulln/TIL/blob/master/leetcode/middle/dicesProbability.md) - 2021-07-27
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
