@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [数组中数字出现的次数](https://github.com/fulln/TIL/blob/master/leetcode/middle/singleNumbers.md) - 2021-08-07
 * [领域驱动设计](https://github.com/fulln/TIL/blob/master/design/DDD.md) - 2021-08-05
 * [有效三角形的个数](https://github.com/fulln/TIL/blob/master/leetcode/middle/triangleNumber.md) - 2021-08-04
 * [. 最短无序连续子数组](https://github.com/fulln/TIL/blob/master/leetcode/middle/findUnsortedSubarray.md) - 2021-08-03
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [不用加减乘除做加法](https://github.com/fulln/TIL/blob/master/leetcode/easy/add.md) - 2021-08-01
 * [下一个排列](https://github.com/fulln/TIL/blob/master/leetcode/middle/nextPermutation.md) - 2021-07-31
 * [求1+2+…+n](https://github.com/fulln/TIL/blob/master/leetcode/middle/sumNums.md) - 2021-07-30
-* [二叉树寻路](https://github.com/fulln/TIL/blob/master/leetcode/middle/pathInZigZagTree.md) - 2021-07-30
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
