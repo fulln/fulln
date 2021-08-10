@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [等差数列划分](https://github.com/fulln/TIL/blob/master/leetcode/middle/numberOfArithmeticSlices.md) - 2021-08-10
 * [排序数组中两个数字之和](https://github.com/fulln/TIL/blob/master/leetcode/easy/twoSum2.md) - 2021-08-09
 * [kafka消息可靠性保证(三)](https://github.com/fulln/TIL/blob/master/kafka/kafkaReliability3.md) - 2021-08-09
 * [第 N 个泰波那契数](https://github.com/fulln/TIL/blob/master/leetcode/easy/tribonacci.md) - 2021-08-08
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [有效三角形的个数](https://github.com/fulln/TIL/blob/master/leetcode/middle/triangleNumber.md) - 2021-08-04
 * [. 最短无序连续子数组](https://github.com/fulln/TIL/blob/master/leetcode/middle/findUnsortedSubarray.md) - 2021-08-03
 * [kafka消息可靠性保证(二)](https://github.com/fulln/TIL/blob/master/kafka/kafkaReliability2.md) - 2021-08-02
-* [kafka消息可靠性保证(一)](https://github.com/fulln/TIL/blob/master/kafka/kafkaReliability.md) - 2021-08-02
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
