@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [数字 1 的个数](https://github.com/fulln/TIL/blob/master/leetcode/hard/countDigitOne.md) - 2021-08-13
 * [最长回文子序列](https://github.com/fulln/TIL/blob/master/leetcode/middle/longestPalindromeSubseq.md) - 2021-08-12
 * [到最近的人的最大距离](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxDistToClosest.md) - 2021-08-11
 * [等差数列划分](https://github.com/fulln/TIL/blob/master/leetcode/middle/numberOfArithmeticSlices.md) - 2021-08-10
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [数组中数字出现的次数 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/singleNumber2.md) - 2021-08-07
 * [数组中数字出现的次数](https://github.com/fulln/TIL/blob/master/leetcode/middle/singleNumbers.md) - 2021-08-07
 * [领域驱动设计](https://github.com/fulln/TIL/blob/master/design/DDD.md) - 2021-08-05
-* [有效三角形的个数](https://github.com/fulln/TIL/blob/master/leetcode/middle/triangleNumber.md) - 2021-08-04
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
