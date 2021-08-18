@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [最佳观光组合](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxScoreSightseeingPair.md) - 2021-08-18
 * [学生出勤记录 I](https://github.com/fulln/TIL/blob/master/leetcode/easy/checkRecord.md) - 2021-08-17
 * [java反射使用getDeclaredMethods](https://github.com/fulln/TIL/blob/master/java/basic/DeclaredMethod.md) - 2021-08-17
 * [优美的排列](https://github.com/fulln/TIL/blob/master/leetcode/middle/countArrangement.md) - 2021-08-16
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [到最近的人的最大距离](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxDistToClosest.md) - 2021-08-11
 * [等差数列划分](https://github.com/fulln/TIL/blob/master/leetcode/middle/numberOfArithmeticSlices.md) - 2021-08-10
 * [排序数组中两个数字之和](https://github.com/fulln/TIL/blob/master/leetcode/easy/twoSum2.md) - 2021-08-09
-* [kafka消息可靠性保证(三)](https://github.com/fulln/TIL/blob/master/kafka/kafkaReliability3.md) - 2021-08-09
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
