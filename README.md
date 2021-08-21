@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [压缩字符串](https://github.com/fulln/TIL/blob/master/leetcode/middle/compress.md) - 2021-08-21
 * [旋转函数](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxRotateFunction.md) - 2021-08-21
 * [旋转链表](https://github.com/fulln/TIL/blob/master/leetcode/middle/rotateRight.md) - 2021-08-19
 * [最佳观光组合](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxScoreSightseeingPair.md) - 2021-08-18
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [出界的路径数](https://github.com/fulln/TIL/blob/master/leetcode/middle/findPaths.md) - 2021-08-15
 * [数字 1 的个数](https://github.com/fulln/TIL/blob/master/leetcode/hard/countDigitOne.md) - 2021-08-13
 * [最长回文子序列](https://github.com/fulln/TIL/blob/master/leetcode/middle/longestPalindromeSubseq.md) - 2021-08-12
-* [到最近的人的最大距离](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxDistToClosest.md) - 2021-08-11
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
