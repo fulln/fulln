@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [所有奇数长度子数组的和](https://github.com/fulln/TIL/blob/master/leetcode/easy/sumOddLengthSubarrays.md) - 2021-08-29
 * [打家劫舍2](https://github.com/fulln/TIL/blob/master/leetcode/middle/robII.md) - 2021-08-28
 * [石子游戏 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/stoneGameII.md) - 2021-08-26
 * [K 站中转内最便宜的航班](https://github.com/fulln/TIL/blob/master/leetcode/middle/findCheapestPrice.md) - 2021-08-24
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [旋转链表](https://github.com/fulln/TIL/blob/master/leetcode/middle/rotateRight.md) - 2021-08-19
 * [最佳观光组合](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxScoreSightseeingPair.md) - 2021-08-18
 * [学生出勤记录 I](https://github.com/fulln/TIL/blob/master/leetcode/easy/checkRecord.md) - 2021-08-17
-* [java反射使用getDeclaredMethods](https://github.com/fulln/TIL/blob/master/java/basic/DeclaredMethod.md) - 2021-08-17
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
