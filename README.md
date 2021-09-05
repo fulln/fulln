@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [袋子里最少数目的球](https://github.com/fulln/TIL/blob/master/leetcode/middle/minimumSize.md) - 2021-09-05
 * [整数替换](https://github.com/fulln/TIL/blob/master/leetcode/middle/integerReplacement.md) - 2021-09-02
 * [划分数组为连续数字的集合](https://github.com/fulln/TIL/blob/master/leetcode/middle/isPossibleDivide.md) - 2021-09-02
 * [整数拆分](https://github.com/fulln/TIL/blob/master/leetcode/middle/integerBreak.md) - 2021-08-31
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [石子游戏 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/stoneGameII.md) - 2021-08-26
 * [K 站中转内最便宜的航班](https://github.com/fulln/TIL/blob/master/leetcode/middle/findCheapestPrice.md) - 2021-08-24
 * [面试题 08.02. 迷路的机器人](https://github.com/fulln/TIL/blob/master/leetcode/middle/pathWithObstacles.md) - 2021-08-23
-* [压缩字符串](https://github.com/fulln/TIL/blob/master/leetcode/middle/compress.md) - 2021-08-21
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
