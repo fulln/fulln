@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [最小基因变化](https://github.com/fulln/TIL/blob/master/leetcode/middle/minMutation.md) - 2021-09-08
 * [二分查找](https://github.com/fulln/TIL/blob/master/leetcode/easy/searchII.md) - 2021-09-06
 * [袋子里最少数目的球](https://github.com/fulln/TIL/blob/master/leetcode/middle/minimumSize.md) - 2021-09-05
 * [整数替换](https://github.com/fulln/TIL/blob/master/leetcode/middle/integerReplacement.md) - 2021-09-02
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [所有奇数长度子数组的和](https://github.com/fulln/TIL/blob/master/leetcode/easy/sumOddLengthSubarrays.md) - 2021-08-29
 * [打家劫舍2](https://github.com/fulln/TIL/blob/master/leetcode/middle/robII.md) - 2021-08-28
 * [石子游戏 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/stoneGameII.md) - 2021-08-26
-* [K 站中转内最便宜的航班](https://github.com/fulln/TIL/blob/master/leetcode/middle/findCheapestPrice.md) - 2021-08-24
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
