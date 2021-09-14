@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [通过删除字母匹配字典最长字符](https://github.com/fulln/TIL/blob/master/leetcode/middle/findLongestWord.md) - 2021-09-15
 * [G1相关JVM参数](https://github.com/fulln/TIL/blob/master/java/jvm/JvmParams.md) - 2021-09-14
 * [回旋镖的数量](https://github.com/fulln/TIL/blob/master/leetcode/middle/numberOfBoomerangs.md) - 2021-09-13
 * [有效的括号字符串](https://github.com/fulln/TIL/blob/master/leetcode/middle/checkValidString.md) - 2021-09-12
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [二分查找](https://github.com/fulln/TIL/blob/master/leetcode/easy/searchII.md) - 2021-09-06
 * [袋子里最少数目的球](https://github.com/fulln/TIL/blob/master/leetcode/middle/minimumSize.md) - 2021-09-05
 * [整数替换](https://github.com/fulln/TIL/blob/master/leetcode/middle/integerReplacement.md) - 2021-09-02
-* [划分数组为连续数字的集合](https://github.com/fulln/TIL/blob/master/leetcode/middle/isPossibleDivide.md) - 2021-09-02
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
