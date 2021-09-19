@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [只有两个键的键盘](https://github.com/fulln/TIL/blob/master/leetcode/middle/minSteps.md) - 2021-09-19
 * [重新安排行程](https://github.com/fulln/TIL/blob/master/leetcode/middle/findItinerary.md) - 2021-09-16
 * [通过删除字母匹配字典最长字符](https://github.com/fulln/TIL/blob/master/leetcode/middle/findLongestWord.md) - 2021-09-15
 * [G1相关JVM参数](https://github.com/fulln/TIL/blob/master/java/jvm/JvmParams.md) - 2021-09-14
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [IPO](https://github.com/fulln/TIL/blob/master/leetcode/hard/findMaximizedCapital.md) - 2021-09-08
 * [最小基因变化](https://github.com/fulln/TIL/blob/master/leetcode/middle/minMutation.md) - 2021-09-08
 * [二分查找](https://github.com/fulln/TIL/blob/master/leetcode/easy/searchII.md) - 2021-09-06
-* [袋子里最少数目的球](https://github.com/fulln/TIL/blob/master/leetcode/middle/minimumSize.md) - 2021-09-05
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
