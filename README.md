@@ -64,6 +64,8 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2的幂](https://github.com/fulln/TIL/blob/master/leetcode/easy/isPowerOfTwo.md) - 2021-09-23
+* [3的幂](https://github.com/fulln/TIL/blob/master/leetcode/easy/isPowerOfTHREE.md) - 2021-09-23
 * [分隔链表](https://github.com/fulln/TIL/blob/master/leetcode/middle/splitListToParts.md) - 2021-09-22
 * [只有两个键的键盘](https://github.com/fulln/TIL/blob/master/leetcode/middle/minSteps.md) - 2021-09-19
 * [重新安排行程](https://github.com/fulln/TIL/blob/master/leetcode/middle/findItinerary.md) - 2021-09-16
@@ -72,8 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [回旋镖的数量](https://github.com/fulln/TIL/blob/master/leetcode/middle/numberOfBoomerangs.md) - 2021-09-13
 * [有效的括号字符串](https://github.com/fulln/TIL/blob/master/leetcode/middle/checkValidString.md) - 2021-09-12
 * [找到需要补充粉笔的学生编号](https://github.com/fulln/TIL/blob/master/leetcode/middle/chalkReplacer.md) - 2021-09-10
-* [IPO](https://github.com/fulln/TIL/blob/master/leetcode/hard/findMaximizedCapital.md) - 2021-09-08
-* [最小基因变化](https://github.com/fulln/TIL/blob/master/leetcode/middle/minMutation.md) - 2021-09-08
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
