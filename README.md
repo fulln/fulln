@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [路径总和 III](https://github.com/fulln/TIL/blob/master/leetcode/middle/pathSum3.md) - 2021-09-28
 * [解码方法 II](https://github.com/fulln/TIL/blob/master/leetcode/hard/numDecodings.md) - 2021-09-27
 * [两整数之和](https://github.com/fulln/TIL/blob/master/leetcode/middle/getsum.md) - 2021-09-26
 * [两个字符串的删除操作](https://github.com/fulln/TIL/blob/master/leetcode/middle/minDistance.md) - 2021-09-25
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [只有两个键的键盘](https://github.com/fulln/TIL/blob/master/leetcode/middle/minSteps.md) - 2021-09-19
 * [重新安排行程](https://github.com/fulln/TIL/blob/master/leetcode/middle/findItinerary.md) - 2021-09-16
 * [通过删除字母匹配字典最长字符](https://github.com/fulln/TIL/blob/master/leetcode/middle/findLongestWord.md) - 2021-09-15
-* [G1相关JVM参数](https://github.com/fulln/TIL/blob/master/java/jvm/JvmParams.md) - 2021-09-14
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
