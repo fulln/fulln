@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [矩形面积](https://github.com/fulln/TIL/blob/master/leetcode/middle/computeArea.md) - 2021-09-30
 * [超级洗衣机](https://github.com/fulln/TIL/blob/master/leetcode/middle/findMinMoves.md) - 2021-09-29
 * [路径总和 III](https://github.com/fulln/TIL/blob/master/leetcode/middle/pathSum3.md) - 2021-09-28
 * [解码方法 II](https://github.com/fulln/TIL/blob/master/leetcode/hard/numDecodings.md) - 2021-09-27
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [3的幂](https://github.com/fulln/TIL/blob/master/leetcode/easy/isPowerOfTHREE.md) - 2021-09-23
 * [分隔链表](https://github.com/fulln/TIL/blob/master/leetcode/middle/splitListToParts.md) - 2021-09-22
 * [只有两个键的键盘](https://github.com/fulln/TIL/blob/master/leetcode/middle/minSteps.md) - 2021-09-19
-* [重新安排行程](https://github.com/fulln/TIL/blob/master/leetcode/middle/findItinerary.md) - 2021-09-16
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
