@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [分割字符串的方案数](https://github.com/fulln/TIL/blob/master/leetcode/middle/numWays.md) - 2021-10-12
 * [视频拼接](https://github.com/fulln/TIL/blob/master/leetcode/middle/videoStitching.md) - 2021-10-10
 * [顶端迭代器](https://github.com/fulln/TIL/blob/master/leetcode/middle/PeekingIterator.md) - 2021-10-09
 * [重复的DNA序列](https://github.com/fulln/TIL/blob/master/leetcode/middle/findRepeatedDnaSequences.md) - 2021-10-08
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [路径总和 III](https://github.com/fulln/TIL/blob/master/leetcode/middle/pathSum3.md) - 2021-09-28
 * [解码方法 II](https://github.com/fulln/TIL/blob/master/leetcode/hard/numDecodings.md) - 2021-09-27
 * [两整数之和](https://github.com/fulln/TIL/blob/master/leetcode/middle/getsum.md) - 2021-09-26
-* [两个字符串的删除操作](https://github.com/fulln/TIL/blob/master/leetcode/middle/minDistance.md) - 2021-09-25
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
