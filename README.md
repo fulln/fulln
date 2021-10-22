@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [求众数 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/majorityElement.md) - 2021-10-22
 * [实现 Trie (前缀树)](https://github.com/fulln/TIL/blob/master/leetcode/middle/Trie.md) - 2021-10-19
 * [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://github.com/fulln/TIL/blob/master/leetcode/middle/canEat.md) - 2021-10-17
 * [子数组和排序后的区间和](https://github.com/fulln/TIL/blob/master/leetcode/middle/rangeSum.md) - 2021-10-14
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [顶端迭代器](https://github.com/fulln/TIL/blob/master/leetcode/middle/PeekingIterator.md) - 2021-10-09
 * [重复的DNA序列](https://github.com/fulln/TIL/blob/master/leetcode/middle/findRepeatedDnaSequences.md) - 2021-10-08
 * [密钥格式化](https://github.com/fulln/TIL/blob/master/leetcode/easy/licenseKeyFormatting.md) - 2021-10-04
-* [矩形面积](https://github.com/fulln/TIL/blob/master/leetcode/middle/computeArea.md) - 2021-09-30
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
