@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [检测大写字母](https://github.com/fulln/TIL/blob/master/leetcode/easy/detectCapitalUse.md) - 2021-11-13
 * [漂亮数组](https://github.com/fulln/TIL/blob/master/leetcode/middle/beautifulArray.md) - 2021-11-11
 * [提莫攻击](https://github.com/fulln/TIL/blob/master/leetcode/easy/findPoisonedDuration.md) - 2021-11-10
 * [范围求和 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxCount.md) - 2021-11-07
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [路径交叉](https://github.com/fulln/TIL/blob/master/leetcode/hard/isSelfCrossing.md) - 2021-10-29
 * [重新排序得到 2 的幂](https://github.com/fulln/TIL/blob/master/leetcode/middle/reorderedPowerOf2.md) - 2021-10-28
 * [删除无效的括号](https://github.com/fulln/TIL/blob/master/leetcode/hard/removeInvalidParentheses.md) - 2021-10-27
-* [行星碰撞](https://github.com/fulln/TIL/blob/master/leetcode/middle/asteroidCollision.md) - 2021-10-25
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
