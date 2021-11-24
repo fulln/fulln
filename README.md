@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [从英文中重建数字](https://github.com/fulln/TIL/blob/master/leetcode/middle/originalDigits.md) - 2021-11-24
 * [不同￼￼路径2](https://github.com/fulln/TIL/blob/master/leetcode/middle/uniquePathsWithObstacles.md) - 2021-11-21
 * [二叉树的坡度](https://github.com/fulln/TIL/blob/master/leetcode/middle/findTilt.md) - 2021-11-18
 * [学生分数的最小差值](https://github.com/fulln/TIL/blob/master/leetcode/easy/minimumDifference.md) - 2021-11-16
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [提莫攻击](https://github.com/fulln/TIL/blob/master/leetcode/easy/findPoisonedDuration.md) - 2021-11-10
 * [范围求和 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxCount.md) - 2021-11-07
 * [有效的完全平方数](https://github.com/fulln/TIL/blob/master/leetcode/easy/isPerfectSquare.md) - 2021-11-04
-* [爱吃香蕉的珂珂](https://github.com/fulln/TIL/blob/master/leetcode/middle/minEatingSpeed.md) - 2021-11-03
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
