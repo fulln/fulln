@@ -25,34 +25,34 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <!-- recent_blogs starts -->
 <ul>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/15095821.html">1.kafka消息可靠性保证(一)</a>
+<a href="https://www.cnblogs.com/wzqshb/p/15616453.html">1.kafka消息可靠性保证(二)</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/14907761.html">2.MapStruct 实践</a>
+<a href="https://www.cnblogs.com/wzqshb/p/15095821.html">2.kafka消息可靠性保证(一)</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/14878246.html">3.动态规划 思路思考</a>
+<a href="https://www.cnblogs.com/wzqshb/p/14907761.html">3.MapStruct 实践</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/14856569.html">4.分布式锁的各种实现</a>
+<a href="https://www.cnblogs.com/wzqshb/p/14878246.html">4.动态规划 思路思考</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/14839588.html">5.使用mybatis 自动执行脚本</a>
+<a href="https://www.cnblogs.com/wzqshb/p/14856569.html">5.分布式锁的各种实现</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/14305905.html">6.Alter Table 操作遇见的坑</a>
+<a href="https://www.cnblogs.com/wzqshb/p/14839588.html">6.使用mybatis 自动执行脚本</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/13917137.html">7.JDK15视频会及新特性总节</a>
+<a href="https://www.cnblogs.com/wzqshb/p/14305905.html">7.Alter Table 操作遇见的坑</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/11795787.html">8.设计模式之访问者模式</a>
+<a href="https://www.cnblogs.com/wzqshb/p/13917137.html">8.JDK15视频会及新特性总节</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/11778598.html">9.datax分析与思考(一)</a>
+<a href="https://www.cnblogs.com/wzqshb/p/11795787.html">9.设计模式之访问者模式</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/11774767.html">10.beanfactory中单例bean的初始化过程（一）</a>
+<a href="https://www.cnblogs.com/wzqshb/p/11778598.html">10.datax分析与思考(一)</a>
 </li>
 </ul>
 <!-- recent_blogs ends -->
