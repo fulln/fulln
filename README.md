@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [不同颜色的乒乓球](https://github.com/fulln/TIL/blob/master/leetcode/middle/differentBall.md) - 2021-11-29
 * [找到字符串中所有字母异位词](https://github.com/fulln/TIL/blob/master/leetcode/middle/findAnagrams.md) - 2021-11-28
 * [随机翻转矩阵](https://github.com/fulln/TIL/blob/master/leetcode/middle/Solution.md) - 2021-11-27
 * [二叉搜索树（BST）](https://github.com/fulln/TIL/blob/master/leetcode/easy/searchBST.md) - 2021-11-26
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [二叉树的坡度](https://github.com/fulln/TIL/blob/master/leetcode/middle/findTilt.md) - 2021-11-18
 * [学生分数的最小差值](https://github.com/fulln/TIL/blob/master/leetcode/easy/minimumDifference.md) - 2021-11-16
 * [键值映射](https://github.com/fulln/TIL/blob/master/leetcode/middle/MapSum.md) - 2021-11-14
-* [检测大写字母](https://github.com/fulln/TIL/blob/master/leetcode/easy/detectCapitalUse.md) - 2021-11-13
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
