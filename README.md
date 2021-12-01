@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [连续字符](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxPower.md) - 2021-12-01
 * [字母板上的路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/alphabetBoardPath.md) - 2021-11-30
 * [不同颜色的乒乓球](https://github.com/fulln/TIL/blob/master/leetcode/middle/differentBall.md) - 2021-11-29
 * [找到字符串中所有字母异位词](https://github.com/fulln/TIL/blob/master/leetcode/middle/findAnagrams.md) - 2021-11-28
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [从英文中重建数字](https://github.com/fulln/TIL/blob/master/leetcode/middle/originalDigits.md) - 2021-11-24
 * [不同￼￼路径2](https://github.com/fulln/TIL/blob/master/leetcode/middle/uniquePathsWithObstacles.md) - 2021-11-21
 * [二叉树的坡度](https://github.com/fulln/TIL/blob/master/leetcode/middle/findTilt.md) - 2021-11-18
-* [学生分数的最小差值](https://github.com/fulln/TIL/blob/master/leetcode/easy/minimumDifference.md) - 2021-11-16
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
