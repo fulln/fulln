@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [超级次方](https://github.com/fulln/TIL/blob/master/leetcode/middle/superPow.md) - 2021-12-05
 * [## 火柴拼正方形](https://github.com/fulln/TIL/blob/master/leetcode/middle/makesquare.md) - 2021-12-04
 * [连续字符](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxPower.md) - 2021-12-01
 * [字母板上的路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/alphabetBoardPath.md) - 2021-11-30
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [二叉搜索树（BST）](https://github.com/fulln/TIL/blob/master/leetcode/easy/searchBST.md) - 2021-11-26
 * [导弹问题](https://github.com/fulln/TIL/blob/master/leetcode/middle/missile.md) - 2021-11-25
 * [从英文中重建数字](https://github.com/fulln/TIL/blob/master/leetcode/middle/originalDigits.md) - 2021-11-24
-* [不同￼￼路径2](https://github.com/fulln/TIL/blob/master/leetcode/middle/uniquePathsWithObstacles.md) - 2021-11-21
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
