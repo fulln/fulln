@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [最短补全词](https://github.com/fulln/TIL/blob/master/leetcode/easy/shortestCompletingWord.md) - 2021-12-10
 * [有效的井字游戏](https://github.com/fulln/TIL/blob/master/leetcode/middle/validTicTacToe.md) - 2021-12-09
 * [Nginx,HAproxy,F5差异与联系](https://github.com/fulln/TIL/blob/master/net/loadBalance.md) - 2021-12-08
 * [边界着色](https://github.com/fulln/TIL/blob/master/leetcode/middle/colorBorder.md) - 2021-12-07
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [连续字符](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxPower.md) - 2021-12-01
 * [字母板上的路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/alphabetBoardPath.md) - 2021-11-30
 * [不同颜色的乒乓球](https://github.com/fulln/TIL/blob/master/leetcode/middle/differentBall.md) - 2021-11-29
-* [找到字符串中所有字母异位词](https://github.com/fulln/TIL/blob/master/leetcode/middle/findAnagrams.md) - 2021-11-28
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
