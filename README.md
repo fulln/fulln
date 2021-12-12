@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [使数组和能被 P 整除](https://github.com/fulln/TIL/blob/master/leetcode/middle/minSubarray.md) - 2021-12-12
 * [在线选举](https://github.com/fulln/TIL/blob/master/leetcode/middle/TopVotedCandidate.md) - 2021-12-11
 * [最短补全词](https://github.com/fulln/TIL/blob/master/leetcode/easy/shortestCompletingWord.md) - 2021-12-10
 * [有效的井字游戏](https://github.com/fulln/TIL/blob/master/leetcode/middle/validTicTacToe.md) - 2021-12-09
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [超级次方](https://github.com/fulln/TIL/blob/master/leetcode/middle/superPow.md) - 2021-12-05
 * [火柴拼正方形](https://github.com/fulln/TIL/blob/master/leetcode/middle/makesquare.md) - 2021-12-04
 * [连续字符](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxPower.md) - 2021-12-01
-* [字母板上的路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/alphabetBoardPath.md) - 2021-11-30
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
