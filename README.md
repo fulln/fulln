@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [连接所有点的最小费用](https://github.com/fulln/TIL/blob/master/leetcode/middle/minCostConnectPoints.md) - 2021-12-13
 * [Tomcat 加载包导致OOM](https://github.com/fulln/TIL/blob/master/java/tomcat/tomcatError.md) - 2021-12-13
 * [使数组和能被 P 整除](https://github.com/fulln/TIL/blob/master/leetcode/middle/minSubarray.md) - 2021-12-12
 * [在线选举](https://github.com/fulln/TIL/blob/master/leetcode/middle/TopVotedCandidate.md) - 2021-12-11
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [边界着色](https://github.com/fulln/TIL/blob/master/leetcode/middle/colorBorder.md) - 2021-12-07
 * [状态机介绍](https://github.com/fulln/TIL/blob/master/design/stateMachine.md) - 2021-12-06
 * [超级次方](https://github.com/fulln/TIL/blob/master/leetcode/middle/superPow.md) - 2021-12-05
-* [火柴拼正方形](https://github.com/fulln/TIL/blob/master/leetcode/middle/makesquare.md) - 2021-12-04
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
