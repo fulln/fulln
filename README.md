@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [喧闹和富有](https://github.com/fulln/TIL/blob/master/leetcode/middle/loudAndRich.md) - 2021-12-15
 * [课程表 III](https://github.com/fulln/TIL/blob/master/leetcode/hard/scheduleCourse.md) - 2021-12-14
 * [连接所有点的最小费用](https://github.com/fulln/TIL/blob/master/leetcode/middle/minCostConnectPoints.md) - 2021-12-13
 * [Tomcat 加载包导致OOM](https://github.com/fulln/TIL/blob/master/java/tomcat/tomcatError.md) - 2021-12-13
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [有效的井字游戏](https://github.com/fulln/TIL/blob/master/leetcode/middle/validTicTacToe.md) - 2021-12-09
 * [Nginx,HAproxy,F5差异与联系](https://github.com/fulln/TIL/blob/master/net/loadBalance.md) - 2021-12-08
 * [边界着色](https://github.com/fulln/TIL/blob/master/leetcode/middle/colorBorder.md) - 2021-12-07
-* [状态机介绍](https://github.com/fulln/TIL/blob/master/design/stateMachine.md) - 2021-12-06
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
