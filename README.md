@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [使数组中所有元素相等的最小操作数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minOperations.md) - 2021-12-21
 * [找出数组中的第 K 大整数](https://github.com/fulln/TIL/blob/master/leetcode/middle/kthLargestNumber.md) - 2021-12-17
 * [. 有序数组中的单一元素](https://github.com/fulln/TIL/blob/master/leetcode/middle/singleNonDuplicate.md) - 2021-12-16
 * [喧闹和富有](https://github.com/fulln/TIL/blob/master/leetcode/middle/loudAndRich.md) - 2021-12-15
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [使数组和能被 P 整除](https://github.com/fulln/TIL/blob/master/leetcode/middle/minSubarray.md) - 2021-12-12
 * [在线选举](https://github.com/fulln/TIL/blob/master/leetcode/middle/TopVotedCandidate.md) - 2021-12-11
 * [最短补全词](https://github.com/fulln/TIL/blob/master/leetcode/easy/shortestCompletingWord.md) - 2021-12-10
-* [有效的井字游戏](https://github.com/fulln/TIL/blob/master/leetcode/middle/validTicTacToe.md) - 2021-12-09
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
