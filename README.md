@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [适龄的朋友](https://github.com/fulln/TIL/blob/master/leetcode/middle/numFriendRequests.md) - 2021-12-27
 * [绝对值表达式的最大值](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxAbsValExpr.md) - 2021-12-24
 * [重复叠加字符串匹配](https://github.com/fulln/TIL/blob/master/leetcode/middle/repeatedStringMatch.md) - 2021-12-22
 * [使数组中所有元素相等的最小操作数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minOperations.md) - 2021-12-21
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [课程表 III](https://github.com/fulln/TIL/blob/master/leetcode/hard/scheduleCourse.md) - 2021-12-14
 * [连接所有点的最小费用](https://github.com/fulln/TIL/blob/master/leetcode/middle/minCostConnectPoints.md) - 2021-12-13
 * [Tomcat 加载包导致OOM](https://github.com/fulln/TIL/blob/master/java/tomcat/tomcatError.md) - 2021-12-13
-* [使数组和能被 P 整除](https://github.com/fulln/TIL/blob/master/leetcode/middle/minSubarray.md) - 2021-12-12
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
