@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [一手顺子](https://github.com/fulln/TIL/blob/master/leetcode/middle/isNStraightHand.md) - 2021-12-30
 * [SpringCache 源码解析](https://github.com/fulln/TIL/blob/master/java/spring/springcache.md) - 2021-12-30
 * [适龄的朋友](https://github.com/fulln/TIL/blob/master/leetcode/middle/numFriendRequests.md) - 2021-12-27
 * [绝对值表达式的最大值](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxAbsValExpr.md) - 2021-12-24
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [. 有序数组中的单一元素](https://github.com/fulln/TIL/blob/master/leetcode/middle/singleNonDuplicate.md) - 2021-12-16
 * [喧闹和富有](https://github.com/fulln/TIL/blob/master/leetcode/middle/loudAndRich.md) - 2021-12-15
 * [课程表 III](https://github.com/fulln/TIL/blob/master/leetcode/hard/scheduleCourse.md) - 2021-12-14
-* [连接所有点的最小费用](https://github.com/fulln/TIL/blob/master/leetcode/middle/minCostConnectPoints.md) - 2021-12-13
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
