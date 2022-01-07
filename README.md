@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [减小和重新排列数组后的最大元素](https://github.com/fulln/TIL/blob/master/leetcode/easy/Rearranging.md) - 2022-01-07
 * [简化路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/simplifyPath.md) - 2022-01-06
 * [替换所有的问号](https://github.com/fulln/TIL/blob/master/leetcode/easy/modifyString.md) - 2022-01-05
 * [按位与为零的三元组](https://github.com/fulln/TIL/blob/master/leetcode/hard/countTriplets.md) - 2022-01-04
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [SpringCache 源码解析](https://github.com/fulln/TIL/blob/master/java/spring/springcache.md) - 2021-12-30
 * [适龄的朋友](https://github.com/fulln/TIL/blob/master/leetcode/middle/numFriendRequests.md) - 2021-12-27
 * [绝对值表达式的最大值](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxAbsValExpr.md) - 2021-12-24
-* [重复叠加字符串匹配](https://github.com/fulln/TIL/blob/master/leetcode/middle/repeatedStringMatch.md) - 2021-12-22
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
