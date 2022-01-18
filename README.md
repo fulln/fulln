@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [统计元音字母序列的数目](https://github.com/fulln/TIL/blob/master/leetcode/middle/countVowelPermutation.md) - 2022-01-18
 * [统计封闭岛屿的数目](https://github.com/fulln/TIL/blob/master/leetcode/middle/closedIsland.md) - 2022-01-11
 * [减小和重新排列数组后的最大元素](https://github.com/fulln/TIL/blob/master/leetcode/easy/Rearranging.md) - 2022-01-07
 * [简化路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/simplifyPath.md) - 2022-01-06
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [完美数](https://github.com/fulln/TIL/blob/master/leetcode/easy/checkPerfectNumber.md) - 2021-12-31
 * [一手顺子](https://github.com/fulln/TIL/blob/master/leetcode/middle/isNStraightHand.md) - 2021-12-30
 * [SpringCache 源码解析](https://github.com/fulln/TIL/blob/master/java/spring/springcache.md) - 2021-12-30
-* [适龄的朋友](https://github.com/fulln/TIL/blob/master/leetcode/middle/numFriendRequests.md) - 2021-12-27
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
