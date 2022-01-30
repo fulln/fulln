@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [地图中的最高点](https://github.com/fulln/TIL/blob/master/leetcode/middle/highestPeak.md) - 2022-01-29
 * [戏中弱角色的数量](https://github.com/fulln/TIL/blob/master/leetcode/middle/numberOfWeakCharacters.md) - 2022-01-28
 * [不同的二叉搜索树 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/generateTrees.md) - 2022-01-24
 * [叶子相似的树](https://github.com/fulln/TIL/blob/master/leetcode/easy/leafSimilar.md) - 2022-01-22
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [简化路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/simplifyPath.md) - 2022-01-06
 * [替换所有的问号](https://github.com/fulln/TIL/blob/master/leetcode/easy/modifyString.md) - 2022-01-05
 * [按位与为零的三元组](https://github.com/fulln/TIL/blob/master/leetcode/hard/countTriplets.md) - 2022-01-04
-* [逃脱阻碍者](https://github.com/fulln/TIL/blob/master/leetcode/middle/escapeGhosts.md) - 2022-01-03
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
