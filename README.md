@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [最简分数](https://github.com/fulln/TIL/blob/master/leetcode/middle/simplifiedFractions.md) - 2022-02-10
 * [差的绝对值为 K 的数对数目](https://github.com/fulln/TIL/blob/master/leetcode/easy/countKDifference.md) - 2022-02-09
 * [每一个查询的最大美丽值](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumBeauty.md) - 2022-02-08
 * [最长快乐字符串](https://github.com/fulln/TIL/blob/master/leetcode/middle/longestDiverseString.md) - 2022-02-07
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [地图中的最高点](https://github.com/fulln/TIL/blob/master/leetcode/middle/highestPeak.md) - 2022-01-29
 * [戏中弱角色的数量](https://github.com/fulln/TIL/blob/master/leetcode/middle/numberOfWeakCharacters.md) - 2022-01-28
 * [不同的二叉搜索树 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/generateTrees.md) - 2022-01-24
-* [叶子相似的树](https://github.com/fulln/TIL/blob/master/leetcode/easy/leafSimilar.md) - 2022-01-22
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
