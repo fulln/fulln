@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [我能赢吗](https://github.com/fulln/TIL/blob/master/leetcode/middle/canIWin.md) - 2022-02-16
 * [矩阵中的幸运数](https://github.com/fulln/TIL/blob/master/leetcode/easy/luckyNumbers.md) - 2022-02-15
 * [构建乘积数组](https://github.com/fulln/TIL/blob/master/leetcode/easy/constructArr.md) - 2022-02-11
 * [最简分数](https://github.com/fulln/TIL/blob/master/leetcode/middle/simplifiedFractions.md) - 2022-02-10
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [黄金矿工](https://github.com/fulln/TIL/blob/master/leetcode/middle/getMaxmumGold.md) - 2022-02-05
 * [最美子字符串的数目](https://github.com/fulln/TIL/blob/master/leetcode/middle/wonderfulSubstrings.md) - 2022-01-31
 * [等差数列划分](https://github.com/fulln/TIL/blob/master/leetcode/middle/numberOfArithmeticSliceshighestPeak.md) - 2022-01-30
-* [地图中的最高点](https://github.com/fulln/TIL/blob/master/leetcode/middle/highestPeak.md) - 2022-01-29
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
