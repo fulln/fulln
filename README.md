@@ -64,6 +64,8 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [出第 N 个二进制字符串中的第 K 位](https://github.com/fulln/TIL/blob/master/leetcode/middle/findKthBit.md) - 2022-02-22
+* [推多米诺](https://github.com/fulln/TIL/blob/master/leetcode/middle/pushDominoes.md) - 2022-02-21
 * [查找共用字符](https://github.com/fulln/TIL/blob/master/leetcode/easy/commonChars.md) - 2022-02-20
 * [骑士在棋盘上的概率](https://github.com/fulln/TIL/blob/master/leetcode/middle/knightProbability.md) - 2022-02-17
 * [我能赢吗](https://github.com/fulln/TIL/blob/master/leetcode/middle/canIWin.md) - 2022-02-16
@@ -72,8 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [最简分数](https://github.com/fulln/TIL/blob/master/leetcode/middle/simplifiedFractions.md) - 2022-02-10
 * [差的绝对值为 K 的数对数目](https://github.com/fulln/TIL/blob/master/leetcode/easy/countKDifference.md) - 2022-02-09
 * [每一个查询的最大美丽值](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumBeauty.md) - 2022-02-08
-* [最长快乐字符串](https://github.com/fulln/TIL/blob/master/leetcode/middle/longestDiverseString.md) - 2022-02-07
-* [黄金矿工](https://github.com/fulln/TIL/blob/master/leetcode/middle/getMaxmumGold.md) - 2022-02-05
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
