@@ -64,6 +64,8 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [5269. 从栈中取出 K 个硬币的最大面值和](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxValueOfCoins.md) - 2022-03-27
+* [美化数组的最少删除数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minDeletion.md) - 2022-03-27
 * [6030. 由单个字符重复的最长子字符串](https://github.com/fulln/TIL/blob/master/leetcode/hard/longestRepeating.md) - 2022-03-20
 * [6027. 统计数组中峰和谷的数量](https://github.com/fulln/TIL/blob/master/leetcode/easy/countCollisions.md) - 2022-03-20
 * [6028. 统计道路上的碰撞次数](https://github.com/fulln/TIL/blob/master/leetcode/middle/countCollisions.md) - 2022-03-20
@@ -72,8 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [将数组和减半的最少操作次数](https://github.com/fulln/TIL/blob/master/leetcode/middle/halveArray.md) - 2022-03-20
 * [字符串中最多数目的子字符串](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumSubsequenceCount.md) - 2022-03-20
 * [买卖股票的最佳时机 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxProfit2.md) - 2022-03-12
-* [各位相加](https://github.com/fulln/TIL/blob/master/leetcode/easy/addDigits.md) - 2022-03-03
-* [最多可达成的换楼请求数目](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumRequests.md) - 2022-02-28
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
