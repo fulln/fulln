@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [旋转字符串](https://github.com/fulln/TIL/blob/master/leetcode/easy/rotateString.md) - 2022-04-07
 * [最小高度树](https://github.com/fulln/TIL/blob/master/leetcode/middle/findMinHeightTrees.md) - 2022-04-06
 * [最小覆盖子串](https://github.com/fulln/TIL/blob/master/leetcode/hard/minWindow.md) - 2022-03-31
 * [单词拆分 II](https://github.com/fulln/TIL/blob/master/leetcode/hard/wordBreak.md) - 2022-03-29
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [6030. 由单个字符重复的最长子字符串](https://github.com/fulln/TIL/blob/master/leetcode/hard/longestRepeating.md) - 2022-03-20
 * [6027. 统计数组中峰和谷的数量](https://github.com/fulln/TIL/blob/master/leetcode/easy/countCollisions.md) - 2022-03-20
 * [6028. 统计道路上的碰撞次数](https://github.com/fulln/TIL/blob/master/leetcode/middle/countCollisions.md) - 2022-03-20
-* [射箭比赛中的最大得分](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumBobPoints.md) - 2022-03-20
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
