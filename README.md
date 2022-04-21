@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [山羊拉丁文](https://github.com/fulln/TIL/blob/master/leetcode/easy/toGoatLatin.md) - 2022-04-21
 * [文件的最长绝对路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/lengthLongestPath.md) - 2022-04-20
 * [写字符串需要的行数](https://github.com/fulln/TIL/blob/master/leetcode/easy/numberOfLines.md) - 2022-04-12
 * [357. 统计各位数字都不同的数字个数](https://github.com/fulln/TIL/blob/master/leetcode/middle/countNumbersWithUniqueDigits.md) - 2022-04-11
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [最小覆盖子串](https://github.com/fulln/TIL/blob/master/leetcode/hard/minWindow.md) - 2022-03-31
 * [单词拆分 II](https://github.com/fulln/TIL/blob/master/leetcode/hard/wordBreak.md) - 2022-03-29
 * [440. 字典序的第K小数字](https://github.com/fulln/TIL/blob/master/leetcode/hard/findKthNumber.md) - 2022-03-27
-* [5269. 从栈中取出 K 个硬币的最大面值和](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxValueOfCoins.md) - 2022-03-27
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
