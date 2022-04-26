@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [三维形体投影面积](https://github.com/fulln/TIL/blob/master/leetcode/easy/projectionArea.md) - 2022-04-26
 * [二进制间距](https://github.com/fulln/TIL/blob/master/leetcode/easy/binaryGap.md) - 2022-04-24
 * [山羊拉丁文](https://github.com/fulln/TIL/blob/master/leetcode/easy/toGoatLatin.md) - 2022-04-21
 * [文件的最长绝对路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/lengthLongestPath.md) - 2022-04-20
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [旋转字符串](https://github.com/fulln/TIL/blob/master/leetcode/easy/rotateString.md) - 2022-04-07
 * [最小高度树](https://github.com/fulln/TIL/blob/master/leetcode/middle/findMinHeightTrees.md) - 2022-04-06
 * [最小覆盖子串](https://github.com/fulln/TIL/blob/master/leetcode/hard/minWindow.md) - 2022-03-31
-* [单词拆分 II](https://github.com/fulln/TIL/blob/master/leetcode/hard/wordBreak.md) - 2022-03-29
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
