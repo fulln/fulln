@@ -64,16 +64,16 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [检查是否有合法括号字符串路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/hasValidPath.md) - 2022-05-08
+* [统计打字方案数](https://github.com/fulln/TIL/blob/master/leetcode/middle/countTexts.md) - 2022-05-08
+* [统计值等于子树平均值的节点数](https://github.com/fulln/TIL/blob/master/leetcode/middle/averageOfSubtree.md) - 2022-05-08
+* [字符串中最大的 3 位相同数字](https://github.com/fulln/TIL/blob/master/leetcode/middle/largestGoodInteger.md) - 2022-05-08
 * [面试题 01.07. 旋转矩阵](https://github.com/fulln/TIL/blob/master/leetcode/middle/rotate.md) - 2022-05-02
 * [太平洋大西洋水流问题](https://github.com/fulln/TIL/blob/master/leetcode/middle/pacificAtlantic.md) - 2022-04-27
 * [三维形体投影面积](https://github.com/fulln/TIL/blob/master/leetcode/easy/projectionArea.md) - 2022-04-26
 * [二进制间距](https://github.com/fulln/TIL/blob/master/leetcode/easy/binaryGap.md) - 2022-04-24
 * [山羊拉丁文](https://github.com/fulln/TIL/blob/master/leetcode/easy/toGoatLatin.md) - 2022-04-21
 * [文件的最长绝对路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/lengthLongestPath.md) - 2022-04-20
-* [写字符串需要的行数](https://github.com/fulln/TIL/blob/master/leetcode/easy/numberOfLines.md) - 2022-04-12
-* [357. 统计各位数字都不同的数字个数](https://github.com/fulln/TIL/blob/master/leetcode/middle/countNumbersWithUniqueDigits.md) - 2022-04-11
-* [N 叉树的层序遍历](https://github.com/fulln/TIL/blob/master/leetcode/middle/levelOrderN.md) - 2022-04-08
-* [旋转字符串](https://github.com/fulln/TIL/blob/master/leetcode/easy/rotateString.md) - 2022-04-07
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
