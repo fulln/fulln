@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [1261. 在受污染的二叉树中查找元素](https://github.com/fulln/TIL/blob/master/leetcode/middle/FindElements.md) - 2022-05-31
 * [表示一个折线图的最少线段数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minimumLines.md) - 2022-05-26
 * [装满石头的背包的最大数量](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumBags.md) - 2022-05-26
 * [寻找右区间](https://github.com/fulln/TIL/blob/master/leetcode/middle/findRightInterval.md) - 2022-05-20
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [按位与结果大于零的最长组合](https://github.com/fulln/TIL/blob/master/leetcode/middle/largestCombination.md) - 2022-05-17
 * [移除字母异位词后的结果数组](https://github.com/fulln/TIL/blob/master/leetcode/easy/removeAnagrams.md) - 2022-05-17
 * [检查是否有合法括号字符串路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/hasValidPath.md) - 2022-05-08
-* [统计打字方案数](https://github.com/fulln/TIL/blob/master/leetcode/middle/countTexts.md) - 2022-05-08
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
