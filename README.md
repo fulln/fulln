@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [找出第 K 小的数对距离](https://github.com/fulln/TIL/blob/master/leetcode/middle/smallestDistancePair.md) - 2022-06-15
 * [98. 对角线遍历](https://github.com/fulln/TIL/blob/master/leetcode/middle/findDiagonalOrder.md) - 2022-06-14
 * [1733. 需要教语言的最少人数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minimumTeachings.md) - 2022-06-09
 * [面试题 08.05. 递归乘法](https://github.com/fulln/TIL/blob/master/leetcode/middle/multiply.md) - 2022-06-08
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [装满石头的背包的最大数量](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumBags.md) - 2022-05-26
 * [寻找右区间](https://github.com/fulln/TIL/blob/master/leetcode/middle/findRightInterval.md) - 2022-05-20
 * [最少移动次数使数组元素相等 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/minMoves2.md) - 2022-05-19
-* [乘法表中第k小的数](https://github.com/fulln/TIL/blob/master/leetcode/middle/findKthNumber.md) - 2022-05-18
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
