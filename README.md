@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [1175. 质数排列](https://github.com/fulln/TIL/blob/master/leetcode/easy/numPrimeArrangements.md) - 2022-06-30
 * [摆动排序 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/wiggleSort.md) - 2022-06-28
 * [最长特殊序列 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/findLUSlength.md) - 2022-06-27
 * [在每个树行中找最大值](https://github.com/fulln/TIL/blob/master/leetcode/middle/largestValues.md) - 2022-06-24
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [508. 出现次数最多的子树元素和](https://github.com/fulln/TIL/blob/master/leetcode/middle/findFrequentTreeSum.md) - 2022-06-20
 * [089. 复写零](https://github.com/fulln/TIL/blob/master/leetcode/easy/duplicateZeros.md) - 2022-06-20
 * [数组中的 k-diff 数对](https://github.com/fulln/TIL/blob/master/leetcode/middle/findPairs.md) - 2022-06-16
-* [找出第 K 小的数对距离](https://github.com/fulln/TIL/blob/master/leetcode/middle/smallestDistancePair.md) - 2022-06-15
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
