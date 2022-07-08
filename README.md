@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [. 玩筹码](https://github.com/fulln/TIL/blob/master/leetcode/easy/minCostToMoveChips.md) - 2022-07-08
 * [单词替换](https://github.com/fulln/TIL/blob/master/leetcode/middle/replaceWords.md) - 2022-07-07
 * [最小绝对差](https://github.com/fulln/TIL/blob/master/leetcode/easy/minimumAbsDifference.md) - 2022-07-04
 * [1175. 质数排列](https://github.com/fulln/TIL/blob/master/leetcode/easy/numPrimeArrangements.md) - 2022-06-30
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [串联所有单词的子串](https://github.com/fulln/TIL/blob/master/leetcode/hard/findSubstring.md) - 2022-06-23
 * [找树左下角的值](https://github.com/fulln/TIL/blob/master/leetcode/middle/findBottomLeftValue.md) - 2022-06-22
 * [. IP 地址无效化](https://github.com/fulln/TIL/blob/master/leetcode/easy/defangIPaddr.md) - 2022-06-21
-* [508. 出现次数最多的子树元素和](https://github.com/fulln/TIL/blob/master/leetcode/middle/findFrequentTreeSum.md) - 2022-06-20
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
