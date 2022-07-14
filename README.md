@@ -64,7 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
-* [oddCells.md](https://github.com/fulln/TIL/blob/master/leetcode/easy/oddCells.md) - 2022-07-12
+* [奇数值单元格的数目](https://github.com/fulln/TIL/blob/master/leetcode/easy/oddCells.md) - 2022-07-12
 * [实现一个魔法字典](https://github.com/fulln/TIL/blob/master/leetcode/easy/MagicDictionary.md) - 2022-07-11
 * [. 玩筹码](https://github.com/fulln/TIL/blob/master/leetcode/easy/minCostToMoveChips.md) - 2022-07-08
 * [单词替换](https://github.com/fulln/TIL/blob/master/leetcode/middle/replaceWords.md) - 2022-07-07
