@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [二叉树剪枝](https://github.com/fulln/TIL/blob/master/leetcode/middle/pruneTree.md) - 2022-07-21
 * [二维网格迁移](https://github.com/fulln/TIL/blob/master/leetcode/easy/shiftGrid.md) - 2022-07-20
 * [我的日程安排表 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/MyCalendarTwo.md) - 2022-07-18
 * [745. 前缀和后缀搜索](https://github.com/fulln/TIL/blob/master/leetcode/hard/WordFilter.md) - 2022-07-14
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [单词替换](https://github.com/fulln/TIL/blob/master/leetcode/middle/replaceWords.md) - 2022-07-07
 * [最小绝对差](https://github.com/fulln/TIL/blob/master/leetcode/easy/minimumAbsDifference.md) - 2022-07-04
 * [1175. 质数排列](https://github.com/fulln/TIL/blob/master/leetcode/easy/numPrimeArrangements.md) - 2022-06-30
-* [摆动排序 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/wiggleSort.md) - 2022-06-28
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
