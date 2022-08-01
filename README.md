@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [使数组中所有元素都等于零](https://github.com/fulln/TIL/blob/master/leetcode/easy/minimumOperations.md) - 2022-08-01
 * [2343. 裁剪数字后查询第 K 小的数字](https://github.com/fulln/TIL/blob/master/leetcode/middle/smallestTrimmedNumbers.md) - 2022-07-30
 * [有效的正方形](https://github.com/fulln/TIL/blob/master/leetcode/middle/validSquare.md) - 2022-07-29
 * [数组序号转换](https://github.com/fulln/TIL/blob/master/leetcode/easy/arrayRankTransform.md) - 2022-07-28
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [设置交集大小至少为2](https://github.com/fulln/TIL/blob/master/leetcode/hard/intersectionSizeTwo.md) - 2022-07-22
 * [二叉树剪枝](https://github.com/fulln/TIL/blob/master/leetcode/middle/pruneTree.md) - 2022-07-21
 * [二维网格迁移](https://github.com/fulln/TIL/blob/master/leetcode/easy/shiftGrid.md) - 2022-07-20
-* [我的日程安排表 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/MyCalendarTwo.md) - 2022-07-18
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
