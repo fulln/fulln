@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [递增顺序的最小子序列](https://github.com/fulln/TIL/blob/master/leetcode/easy/minSubsequence.md) - 2022-08-04
 * [分组的最大数量](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumGroups.md) - 2022-08-03
 * [使数组中所有元素都等于零](https://github.com/fulln/TIL/blob/master/leetcode/easy/minimumOperations.md) - 2022-08-01
 * [2343. 裁剪数字后查询第 K 小的数字](https://github.com/fulln/TIL/blob/master/leetcode/middle/smallestTrimmedNumbers.md) - 2022-07-30
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [完全二叉树插入器](https://github.com/fulln/TIL/blob/master/leetcode/middle/CBTInserter.md) - 2022-07-25
 * [个位数字为 K 的整数之和](https://github.com/fulln/TIL/blob/master/leetcode/middle/minimumNumbers.md) - 2022-07-24
 * [设置交集大小至少为2](https://github.com/fulln/TIL/blob/master/leetcode/hard/intersectionSizeTwo.md) - 2022-07-22
-* [二叉树剪枝](https://github.com/fulln/TIL/blob/master/leetcode/middle/pruneTree.md) - 2022-07-21
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
