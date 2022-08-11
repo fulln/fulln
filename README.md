@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [重新格式化字符串](https://github.com/fulln/TIL/blob/master/leetcode/easy/reformat.md) - 2022-08-11
 * [1262. 可被三整除的最大和](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxSumDivThree.md) - 2022-08-10
 * [特殊的二进制序列](https://github.com/fulln/TIL/blob/master/leetcode/middle/makeLargestSpecial.md) - 2022-08-09
 * [数组中的字符串匹配](https://github.com/fulln/TIL/blob/master/leetcode/easy/stringMatching.md) - 2022-08-06
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [使数组中所有元素都等于零](https://github.com/fulln/TIL/blob/master/leetcode/easy/minimumOperations.md) - 2022-08-01
 * [2343. 裁剪数字后查询第 K 小的数字](https://github.com/fulln/TIL/blob/master/leetcode/middle/smallestTrimmedNumbers.md) - 2022-07-30
 * [有效的正方形](https://github.com/fulln/TIL/blob/master/leetcode/middle/validSquare.md) - 2022-07-29
-* [数组序号转换](https://github.com/fulln/TIL/blob/master/leetcode/easy/arrayRankTransform.md) - 2022-07-28
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
