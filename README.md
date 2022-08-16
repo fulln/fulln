@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [设计循环双端队列](https://github.com/fulln/TIL/blob/master/leetcode/middle/MyCircularDeque.md) - 2022-08-16
 * [用户分组](https://github.com/fulln/TIL/blob/master/leetcode/middle/groupThePeople.md) - 2022-08-12
 * [重新格式化字符串](https://github.com/fulln/TIL/blob/master/leetcode/easy/reformat.md) - 2022-08-11
 * [1262. 可被三整除的最大和](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxSumDivThree.md) - 2022-08-10
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [递增顺序的最小子序列](https://github.com/fulln/TIL/blob/master/leetcode/easy/minSubsequence.md) - 2022-08-04
 * [分组的最大数量](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumGroups.md) - 2022-08-03
 * [使数组中所有元素都等于零](https://github.com/fulln/TIL/blob/master/leetcode/easy/minimumOperations.md) - 2022-08-01
-* [2343. 裁剪数字后查询第 K 小的数字](https://github.com/fulln/TIL/blob/master/leetcode/middle/smallestTrimmedNumbers.md) - 2022-07-30
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
