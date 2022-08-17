@@ -25,34 +25,34 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <!-- recent_blogs starts -->
 <ul>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16585826.html">1.StatisticNode 结构</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16595799.html">1.ProcessorSlot</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16585817.html">2.Sphu的调用链</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16585826.html">2.StatisticNode 结构</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16585811.html">3.sentinel 资源定义方式</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16585817.html">3.Sphu的调用链</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16529826.html">4.CompletableFuture 在首页上的查询应用</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16585811.html">4.sentinel 资源定义方式</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16276966.html">5.SpringCache从入门到弃坑</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16529826.html">5.CompletableFuture 在首页上的查询应用</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/15716161.html">6.状态机的介绍和使用</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16276966.html">6.SpringCache从入门到弃坑</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/15684005.html">7.Tomcat 加载包导致OOM</a>
+<a href="https://www.cnblogs.com/wzqshb/p/15716161.html">7.状态机的介绍和使用</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/15616453.html">8.kafka消息可靠性保证(二)</a>
+<a href="https://www.cnblogs.com/wzqshb/p/15684005.html">8.Tomcat 加载包导致OOM</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/15095821.html">9.kafka消息可靠性保证(一)</a>
+<a href="https://www.cnblogs.com/wzqshb/p/15616453.html">9.kafka消息可靠性保证(二)</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/14907761.html">10.MapStruct 实践</a>
+<a href="https://www.cnblogs.com/wzqshb/p/15095821.html">10.kafka消息可靠性保证(一)</a>
 </li>
 </ul>
 <!-- recent_blogs ends -->
@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [层数最深叶子节点的和](https://github.com/fulln/TIL/blob/master/leetcode/middle/deepestLeavesSum.md) - 2022-08-17
 * [设计循环双端队列](https://github.com/fulln/TIL/blob/master/leetcode/middle/MyCircularDeque.md) - 2022-08-16
 * [用户分组](https://github.com/fulln/TIL/blob/master/leetcode/middle/groupThePeople.md) - 2022-08-12
 * [重新格式化字符串](https://github.com/fulln/TIL/blob/master/leetcode/easy/reformat.md) - 2022-08-11
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [相等行列对](https://github.com/fulln/TIL/blob/master/leetcode/middle/equalPairs.md) - 2022-08-06
 * [递增顺序的最小子序列](https://github.com/fulln/TIL/blob/master/leetcode/easy/minSubsequence.md) - 2022-08-04
 * [分组的最大数量](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumGroups.md) - 2022-08-03
-* [使数组中所有元素都等于零](https://github.com/fulln/TIL/blob/master/leetcode/easy/minimumOperations.md) - 2022-08-01
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
