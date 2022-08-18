@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [最大相等频率](https://github.com/fulln/TIL/blob/master/leetcode/hard/maxEqualFreq.md) - 2022-08-18
 * [层数最深叶子节点的和](https://github.com/fulln/TIL/blob/master/leetcode/middle/deepestLeavesSum.md) - 2022-08-17
 * [设计循环双端队列](https://github.com/fulln/TIL/blob/master/leetcode/middle/MyCircularDeque.md) - 2022-08-16
 * [用户分组](https://github.com/fulln/TIL/blob/master/leetcode/middle/groupThePeople.md) - 2022-08-12
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [数组中的字符串匹配](https://github.com/fulln/TIL/blob/master/leetcode/easy/stringMatching.md) - 2022-08-06
 * [相等行列对](https://github.com/fulln/TIL/blob/master/leetcode/middle/equalPairs.md) - 2022-08-06
 * [递增顺序的最小子序列](https://github.com/fulln/TIL/blob/master/leetcode/easy/minSubsequence.md) - 2022-08-04
-* [分组的最大数量](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumGroups.md) - 2022-08-03
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
