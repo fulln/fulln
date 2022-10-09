@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [括号的分数](https://github.com/fulln/TIL/blob/master/leetcode/middle/scoreOfParentheses.md) - 2022-10-09
 * [面试题 01.08. 零矩阵](https://github.com/fulln/TIL/blob/master/leetcode/middle/setZeroes.md) - 2022-09-30
 * [面试题 01.09. 字符串轮转](https://github.com/fulln/TIL/blob/master/leetcode/easy/isFlipedString.md) - 2022-09-30
 * [面试题 17.09. 第 k 个数](https://github.com/fulln/TIL/blob/master/leetcode/middle/getKthMagicNumber.md) - 2022-09-28
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [最大交换](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumSwap.md) - 2022-09-13
 * [优美的排列 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/constructArray.md) - 2022-09-08
 * [. 寻找重复的子树](https://github.com/fulln/TIL/blob/master/leetcode/middle/findDuplicateSubtrees.md) - 2022-09-06
-* [切割后面积最大的蛋糕](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxArea2.md) - 2022-09-01
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
