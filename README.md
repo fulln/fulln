@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [最小展台数量](https://github.com/fulln/TIL/blob/master/leetcode/easy/minNumBooths.md) - 2022-10-11
 * [801. 使序列递增的最小交换次数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minSwap.md) - 2022-10-10
 * [括号的分数](https://github.com/fulln/TIL/blob/master/leetcode/middle/scoreOfParentheses.md) - 2022-10-09
 * [面试题 01.08. 零矩阵](https://github.com/fulln/TIL/blob/master/leetcode/middle/setZeroes.md) - 2022-09-30
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [灯泡开关 Ⅱ](https://github.com/fulln/TIL/blob/master/leetcode/middle/flipLights.md) - 2022-09-15
 * [删除某些元素后的数组均值](https://github.com/fulln/TIL/blob/master/leetcode/easy/trimMean.md) - 2022-09-14
 * [最大交换](https://github.com/fulln/TIL/blob/master/leetcode/middle/maximumSwap.md) - 2022-09-13
-* [优美的排列 II](https://github.com/fulln/TIL/blob/master/leetcode/middle/constructArray.md) - 2022-09-08
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
