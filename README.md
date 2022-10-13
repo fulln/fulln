@@ -12,8 +12,8 @@ Currently working in SHENZHEN. CHINA
 * [logHelper first_init](https://github.com/fulln/logHelper/releases/tag/1.0.0) - 2021-07-04
 * [docker-develop-env docker-env](https://github.com/fulln/docker-develop-env/releases/tag/1.0.0) - 2021-06-27
 * [converter ](https://github.com/fulln/converter/releases/tag/1.0.0) - 2021-06-20
-* [locks distributed](https://github.com/fulln/locks/releases/tag/distributed) - 2021-06-06
-* [sampleScrips login automatically!](https://github.com/fulln/sampleScrips/releases/tag/shell1.0) - 2020-09-03
+* [locks scriptRunner](https://github.com/fulln/locks/releases/tag/scriptRunner) - 2021-06-01
+* [proxys 2.0.0-RELEASE](https://github.com/fulln/proxys/releases/tag/2.0.0) - 2020-07-31
 <!-- recent_releases ends -->
 
 More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
