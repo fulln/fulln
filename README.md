@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [769. 最多能完成排序的块](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxChunksToSorted.md) - 2022-10-13
 * [链表组件](https://github.com/fulln/TIL/blob/master/leetcode/middle/numComponents.md) - 2022-10-12
 * [仅执行一次字符串交换能否使两个字符串相等](https://github.com/fulln/TIL/blob/master/leetcode/easy/areAlmostEqual.md) - 2022-10-11
 * [最小展台数量](https://github.com/fulln/TIL/blob/master/leetcode/easy/minNumBooths.md) - 2022-10-11
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [面试题 01.09. 字符串轮转](https://github.com/fulln/TIL/blob/master/leetcode/easy/isFlipedString.md) - 2022-09-30
 * [面试题 17.09. 第 k 个数](https://github.com/fulln/TIL/blob/master/leetcode/middle/getKthMagicNumber.md) - 2022-09-28
 * [面试题 17.19. 消失的两个数字](https://github.com/fulln/TIL/blob/master/leetcode/middle/missingTwo.md) - 2022-09-26
-* [灯泡开关 Ⅱ](https://github.com/fulln/TIL/blob/master/leetcode/middle/flipLights.md) - 2022-09-15
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
