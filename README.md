@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [神奇字符串](https://github.com/fulln/TIL/blob/master/leetcode/middle/magicalString.md) - 2022-11-01
 * [862. 和至少为 K 的最短子数组](https://github.com/fulln/TIL/blob/master/leetcode/hard/shortestSubarray.md) - 2022-10-26
 * [934. 最短的桥](https://github.com/fulln/TIL/blob/master/leetcode/middle/shortestBridge.md) - 2022-10-25
 * [15. 分割数组](https://github.com/fulln/TIL/blob/master/leetcode/middle/partitionDisjoint.md) - 2022-10-24
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [链表组件](https://github.com/fulln/TIL/blob/master/leetcode/middle/numComponents.md) - 2022-10-12
 * [仅执行一次字符串交换能否使两个字符串相等](https://github.com/fulln/TIL/blob/master/leetcode/easy/areAlmostEqual.md) - 2022-10-11
 * [最小展台数量](https://github.com/fulln/TIL/blob/master/leetcode/easy/minNumBooths.md) - 2022-10-11
-* [801. 使序列递增的最小交换次数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minSwap.md) - 2022-10-10
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
