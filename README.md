@@ -64,6 +64,8 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [分汤](https://github.com/fulln/TIL/blob/master/leetcode/middle/soupServings.md) - 2022-11-21
+* [匹配子序列的单词数](https://github.com/fulln/TIL/blob/master/leetcode/middle/numMatchingSubseq.md) - 2022-11-21
 * [全局倒置与局部倒置](https://github.com/fulln/TIL/blob/master/leetcode/easy/isIdealPermutation.md) - 2022-11-16
 * [1710. 卡车上的最大单元数](https://github.com/fulln/TIL/blob/master/leetcode/easy/maximumUnits.md) - 2022-11-15
 * [多米诺和托米诺平铺](https://github.com/fulln/TIL/blob/master/leetcode/middle/numTilings.md) - 2022-11-12
@@ -72,8 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [1668. 最大重复子字符串](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxRepeating.md) - 2022-11-03
 * [网络信号最好的坐标](https://github.com/fulln/TIL/blob/master/leetcode/middle/bestCoordinate.md) - 2022-11-02
 * [神奇字符串](https://github.com/fulln/TIL/blob/master/leetcode/middle/magicalString.md) - 2022-11-01
-* [862. 和至少为 K 的最短子数组](https://github.com/fulln/TIL/blob/master/leetcode/hard/shortestSubarray.md) - 2022-10-26
-* [934. 最短的桥](https://github.com/fulln/TIL/blob/master/leetcode/middle/shortestBridge.md) - 2022-10-25
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
