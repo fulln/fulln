@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [最大平均值和的分组](https://github.com/fulln/TIL/blob/master/leetcode/middle/largestSumOfAverages.md) - 2022-11-28
 * [分汤](https://github.com/fulln/TIL/blob/master/leetcode/middle/soupServings.md) - 2022-11-21
 * [匹配子序列的单词数](https://github.com/fulln/TIL/blob/master/leetcode/middle/numMatchingSubseq.md) - 2022-11-21
 * [全局倒置与局部倒置](https://github.com/fulln/TIL/blob/master/leetcode/easy/isIdealPermutation.md) - 2022-11-16
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [模糊坐标](https://github.com/fulln/TIL/blob/master/leetcode/middle/ambiguousCoordinates.md) - 2022-11-07
 * [1668. 最大重复子字符串](https://github.com/fulln/TIL/blob/master/leetcode/easy/maxRepeating.md) - 2022-11-03
 * [网络信号最好的坐标](https://github.com/fulln/TIL/blob/master/leetcode/middle/bestCoordinate.md) - 2022-11-02
-* [神奇字符串](https://github.com/fulln/TIL/blob/master/leetcode/middle/magicalString.md) - 2022-11-01
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
