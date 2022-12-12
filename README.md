@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [1781. 所有子字符串美丽值之和](https://github.com/fulln/TIL/blob/master/leetcode/middle/beautySum.md) - 2022-12-12
 * [1691. 堆叠长方体的最大高度](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxHeight.md) - 2022-12-10
 * [1780. 判断一个数字是否可以表示成三的幂的和](https://github.com/fulln/TIL/blob/master/leetcode/middle/checkPowersOfThree.md) - 2022-12-09
 * [字符串中不同整数的数目](https://github.com/fulln/TIL/blob/master/leetcode/easy/numDifferentIntegers.md) - 2022-12-06
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [分汤](https://github.com/fulln/TIL/blob/master/leetcode/middle/soupServings.md) - 2022-11-21
 * [匹配子序列的单词数](https://github.com/fulln/TIL/blob/master/leetcode/middle/numMatchingSubseq.md) - 2022-11-21
 * [全局倒置与局部倒置](https://github.com/fulln/TIL/blob/master/leetcode/easy/isIdealPermutation.md) - 2022-11-16
-* [1710. 卡车上的最大单元数](https://github.com/fulln/TIL/blob/master/leetcode/easy/maximumUnits.md) - 2022-11-15
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
