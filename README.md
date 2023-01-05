@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [1803. 统计异或值在范围内的数对有多少](https://github.com/fulln/TIL/blob/master/leetcode/middle/countPairs.md) - 2023-01-05
 * [2042. 检查句子中的数字是否递增](https://github.com/fulln/TIL/blob/master/leetcode/easy/areNumbersAscending.md) - 2023-01-03
 * [2351. 第一个出现两次的字母](https://github.com/fulln/TIL/blob/master/leetcode/easy/repeatedCharacter.md) - 2023-01-01
 * [1832. 判断句子是否为全字母句](https://github.com/fulln/TIL/blob/master/leetcode/easy/checkIfPangram.md) - 2022-12-13
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [字符串中不同整数的数目](https://github.com/fulln/TIL/blob/master/leetcode/easy/numDifferentIntegers.md) - 2022-12-06
 * [移动所有球到每个盒子所需的最小操作数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minOperation2.md) - 2022-12-02
 * [最大频率栈](https://github.com/fulln/TIL/blob/master/leetcode/hard/FreqStack.md) - 2022-11-30
-* [最大平均值和的分组](https://github.com/fulln/TIL/blob/master/leetcode/middle/largestSumOfAverages.md) - 2022-11-28
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
