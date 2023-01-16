@@ -64,16 +64,16 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
-* [2246. 相邻字符不同的最长路径](https://github.com/fulln/TIL/blob/master/leetcode/middle/longestPath.md) - 2023-01-13
-* [1807. 替换字符串中的括号内容](https://github.com/fulln/TIL/blob/master/leetcode/easy/evaluate.md) - 2023-01-12
-* [1443. 收集树上所有苹果的最少时间](https://github.com/fulln/TIL/blob/master/leetcode/middle/minTime.md) - 2023-01-11
-* [将 x 减到 0 的最小操作数](https://github.com/fulln/TIL/blob/master/leetcode/middle/minOperations2.md) - 2023-01-07
-* [1803. 统计异或值在范围内的数对有多少](https://github.com/fulln/TIL/blob/master/leetcode/middle/countPairs.md) - 2023-01-05
-* [2042. 检查句子中的数字是否递增](https://github.com/fulln/TIL/blob/master/leetcode/easy/areNumbersAscending.md) - 2023-01-03
-* [2351. 第一个出现两次的字母](https://github.com/fulln/TIL/blob/master/leetcode/easy/repeatedCharacter.md) - 2023-01-01
-* [1832. 判断句子是否为全字母句](https://github.com/fulln/TIL/blob/master/leetcode/easy/checkIfPangram.md) - 2022-12-13
-* [1781. 所有子字符串美丽值之和](https://github.com/fulln/TIL/blob/master/leetcode/middle/beautySum.md) - 2022-12-12
-* [1691. 堆叠长方体的最大高度](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxHeight.md) - 2022-12-10
+* [readme](https://github.com/fulln/TIL/blob/master/weread/readme.md) - 2023-01-16
+* [2023-01-01](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-01.md) - 2023-01-16
+* [2023-01-05](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-05.md) - 2023-01-16
+* [2023-01-07](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-07.md) - 2023-01-16
+* [2023-01-10](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-10.md) - 2023-01-16
+* [2023-01-16](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-16.md) - 2023-01-16
+* [2023-01-08](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-08.md) - 2023-01-16
+* [2023-01-06](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-06.md) - 2023-01-16
+* [2023-01-02](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-02.md) - 2023-01-16
+* [2023-01-11](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-11.md) - 2023-01-16
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
