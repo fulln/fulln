@@ -64,16 +64,16 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
-* [todayWrite](https://github.com/fulln/TIL/blob/master/module/todayWrite.md) - 2023-01-16
-* [dailyMove](https://github.com/fulln/TIL/blob/master/module/dailyMove.md) - 2023-01-16
-* [YYYY-MM-DD](https://github.com/fulln/TIL/blob/master/module/YYYY-MM-DD.md) - 2023-01-16
-* [<% tp.user.leetcode() %>](https://github.com/fulln/TIL/blob/master/module/leetcode.md) - 2023-01-16
-* [markdownTag](https://github.com/fulln/TIL/blob/master/module/markdownTag.md) - 2023-01-16
+* [](https://github.com/fulln/TIL/blob/master/leetcode/middle/minFlipsMonoIncr.md) - 2023-01-17
+* [2023-01-17](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-17.md) - 2023-01-17
 * [readme](https://github.com/fulln/TIL/blob/master/weread/readme.md) - 2023-01-16
 * [2023-01-01](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-01.md) - 2023-01-16
 * [2023-01-05](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-05.md) - 2023-01-16
 * [2023-01-07](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-07.md) - 2023-01-16
 * [2023-01-10](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-10.md) - 2023-01-16
+* [2023-01-16](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-16.md) - 2023-01-16
+* [2023-01-08](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-08.md) - 2023-01-16
+* [2023-01-06](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-06.md) - 2023-01-16
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
