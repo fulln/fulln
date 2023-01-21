@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-01-21](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-21.md) - 2023-01-21
 * [491. Non-decreasing Subsequences](https://github.com/fulln/TIL/blob/master/leetcode/middle/findSubsequences.md) - 2023-01-20
 * [2023-01-20](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-20.md) - 2023-01-20
 * [2023-01-18](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-18.md) - 2023-01-18
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [react_next](https://github.com/fulln/TIL/blob/master/code/react/react_next.md) - 2023-01-16
 * [Javassist](https://github.com/fulln/TIL/blob/master/code/bytes/Javassist.md) - 2023-01-16
 * [BTrace](https://github.com/fulln/TIL/blob/master/code/bytes/BTrace.md) - 2023-01-16
-* [alterTable](https://github.com/fulln/TIL/blob/master/code/mysql/alterTable.md) - 2023-01-16
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
