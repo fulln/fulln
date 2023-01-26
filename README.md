@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-01-26](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-26.md) - 2023-01-26
 * [2023-01-24](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-24.md) - 2023-01-24
 * [2023-01-23](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-23.md) - 2023-01-23
 * [2023-01-22](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-22.md) - 2023-01-22
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [2023-01-18](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-18.md) - 2023-01-18
 * [](https://github.com/fulln/TIL/blob/master/leetcode/middle/minFlipsMonoIncr.md) - 2023-01-17
 * [2023-01-17](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-17.md) - 2023-01-17
-* [readme](https://github.com/fulln/TIL/blob/master/weread/readme.md) - 2023-01-16
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
