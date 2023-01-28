@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-01-28](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-28.md) - 2023-01-28
 * [1664. Ways to Make a Fair Array](https://github.com/fulln/TIL/blob/master/leetcode/middle/waysToMakeFair.md) - 2023-01-28
 * [JvmLoadSubarray](https://github.com/fulln/TIL/blob/master/code/jvm/JvmLoadSubarray.md) - 2023-01-28
 * [472. Concatenated Words](https://github.com/fulln/TIL/blob/master/leetcode/hard/findAllConcatenatedWordsInADict.md) - 2023-01-27
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [JvmParams](https://github.com/fulln/TIL/blob/master/code/jvm/JvmParams.md) - 2023-01-27
 * [2023-01-27](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-27.md) - 2023-01-27
 * [2023-01-26](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-26.md) - 2023-01-26
-* [2023-01-24](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-24.md) - 2023-01-24
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
