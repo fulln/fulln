@@ -64,6 +64,9 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [SSTABLE](https://github.com/fulln/TIL/blob/master/code/tech/SSTABLE.md) - 2023-01-29
+* [8 Data Structures That Power Your Databases](https://github.com/fulln/TIL/blob/master/code/tech/8 Data Structures That Power Your Databases.md) - 2023-01-29
+* [2023-01-29](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-29.md) - 2023-01-29
 * [2023-01-28](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-28.md) - 2023-01-28
 * [1664. Ways to Make a Fair Array](https://github.com/fulln/TIL/blob/master/leetcode/middle/waysToMakeFair.md) - 2023-01-28
 * [JvmLoadSubarray](https://github.com/fulln/TIL/blob/master/code/jvm/JvmLoadSubarray.md) - 2023-01-28
@@ -71,9 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [jvmKnowns](https://github.com/fulln/TIL/blob/master/code/jvm/jvmKnowns.md) - 2023-01-27
 * [JvmDaily1](https://github.com/fulln/TIL/blob/master/code/jvm/JvmDaily1.md) - 2023-01-27
 * [jvmArrange](https://github.com/fulln/TIL/blob/master/code/jvm/jvmArrange.md) - 2023-01-27
-* [JvmParams](https://github.com/fulln/TIL/blob/master/code/jvm/JvmParams.md) - 2023-01-27
-* [2023-01-27](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-27.md) - 2023-01-27
-* [2023-01-26](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-26.md) - 2023-01-26
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
