@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-02-01](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-01.md) - 2023-02-01
 * [](https://github.com/fulln/TIL/blob/master/leetcode/middle/bestTeamScore.md) - 2023-01-31
 * [2023-01-31](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-31.md) - 2023-01-31
 * [TODO](https://github.com/fulln/TIL/blob/master/tasks/TODO.md) - 2023-01-31
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [SSTABLE](https://github.com/fulln/TIL/blob/master/code/tech/SSTABLE.md) - 2023-01-29
 * [8 Data Structures That Power Your Databases](https://github.com/fulln/TIL/blob/master/code/tech/8 Data Structures That Power Your Databases.md) - 2023-01-29
 * [2023-01-29](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-29.md) - 2023-01-29
-* [2023-01-28](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-28.md) - 2023-01-28
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
