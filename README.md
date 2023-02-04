@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-02-04](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-04.md) - 2023-02-04
 * [2023-02-03](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-03.md) - 2023-02-03
 * [2023-02-02](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-02.md) - 2023-02-02
 * [2023-02-01](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-01.md) - 2023-02-01
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [](https://github.com/fulln/TIL/blob/master/leetcode/middle/mergeInBetween.md) - 2023-01-30
 * [iStat Menus 6](https://github.com/fulln/TIL/blob/master/code/macos/iStat Menus 6.md) - 2023-01-30
 * [2023-01-30](https://github.com/fulln/TIL/blob/master/daily/2023-01/2023-01-30.md) - 2023-01-30
-* [SSTABLE](https://github.com/fulln/TIL/blob/master/code/tech/SSTABLE.md) - 2023-01-29
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
