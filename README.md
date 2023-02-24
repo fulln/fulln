@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-02-24](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-24.md) - 2023-02-24
 * [2023-02-23](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-23.md) - 2023-02-23
 * [2023-02-22](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-22.md) - 2023-02-22
 * [2023-02-21](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-21.md) - 2023-02-21
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [2023-02-19](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-19.md) - 2023-02-19
 * [[64. 最小路径和]](https://github.com/fulln/TIL/blob/master/leetcode/middle/minPathSum.md) - 2023-02-19
 * [2023-02-18](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-18.md) - 2023-02-18
-* [2023-02-17](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-17.md) - 2023-02-17
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
