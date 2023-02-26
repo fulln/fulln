@@ -64,6 +64,8 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-02-26](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-26.md) - 2023-02-26
+* [maven-archetype](https://github.com/fulln/TIL/blob/master/code/maven/maven-archetype.md) - 2023-02-26
 * [2023-02-24](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-24.md) - 2023-02-24
 * [2023-02-23](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-23.md) - 2023-02-23
 * [2023-02-22](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-22.md) - 2023-02-22
@@ -72,8 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [79. 单词搜索](https://github.com/fulln/TIL/blob/master/leetcode/middle/exist2.md) - 2023-02-20
 * [2023-02-20](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-20.md) - 2023-02-20
 * [2023-02-19](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-19.md) - 2023-02-19
-* [[64. 最小路径和]](https://github.com/fulln/TIL/blob/master/leetcode/middle/minPathSum.md) - 2023-02-19
-* [2023-02-18](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-18.md) - 2023-02-18
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
