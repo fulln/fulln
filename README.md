@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-03-06](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-06.md) - 2023-03-06
 * [2023-03-05](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-05.md) - 2023-03-05
 * [2023-03-04](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-04.md) - 2023-03-04
 * [2023-03-03](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-03.md) - 2023-03-03
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [2023-02-28](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-28.md) - 2023-02-28
 * [LRU 缓存](https://github.com/fulln/TIL/blob/master/leetcode/middle/LRUCache.md) - 2023-02-28
 * [2023-02-27](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-27.md) - 2023-02-27
-* [2023-02-26](https://github.com/fulln/TIL/blob/master/daily/2023-02/2023-02-26.md) - 2023-02-26
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
