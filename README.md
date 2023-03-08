@@ -64,7 +64,8 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
-* [20233821946](https://github.com/fulln/TIL/blob/master/ChatGPT_MD/chats/20233821946.md) - 2023-03-08
+* [20233823810](https://github.com/fulln/TIL/blob/master/ChatGPT_MD/chats/20233823810.md) - 2023-03-08
+* [2023-03-08](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-08.md) - 2023-03-08
 * [yyyyMMddhhmss](https://github.com/fulln/TIL/blob/master/ChatGPT_MD/templates/yyyyMMddhhmss.md) - 2023-03-08
 * [2023-03-07](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-07.md) - 2023-03-07
 * [2023-03-06](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-06.md) - 2023-03-06
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [2023-03-03](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-03.md) - 2023-03-03
 * [岛屿数量](https://github.com/fulln/TIL/blob/master/leetcode/middle/numIslands.md) - 2023-03-03
 * [2023-03-02](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-02.md) - 2023-03-02
-* [2023-03-01](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-01.md) - 2023-03-01
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
