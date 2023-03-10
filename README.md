@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-03-10](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-10.md) - 2023-03-10
 * [Valid&Validate](https://github.com/fulln/TIL/blob/master/code/spring/Valid&Validate.md) - 2023-03-10
 * [2023-03-09](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-09.md) - 2023-03-09
 * [739. 每日温度](https://github.com/fulln/TIL/blob/master/leetcode/middle/dailyTemperatures.md) - 2023-03-09
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [2023-03-07](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-07.md) - 2023-03-07
 * [2023-03-06](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-06.md) - 2023-03-06
 * [2023-03-05](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-05.md) - 2023-03-05
-* [2023-03-04](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-04.md) - 2023-03-04
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
