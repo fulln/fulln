@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-03-13](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-13.md) - 2023-03-13
 * [2023-03-12](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-12.md) - 2023-03-12
 * [2023-03-11](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-11.md) - 2023-03-11
 * [2023-03-10](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-10.md) - 2023-03-10
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [20233823810](https://github.com/fulln/TIL/blob/master/ChatGPT_MD/chats/20233823810.md) - 2023-03-08
 * [2023-03-08](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-08.md) - 2023-03-08
 * [yyyyMMddhhmss](https://github.com/fulln/TIL/blob/master/ChatGPT_MD/templates/yyyyMMddhhmss.md) - 2023-03-08
-* [2023-03-07](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-07.md) - 2023-03-07
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
