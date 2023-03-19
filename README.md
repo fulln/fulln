@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-03-19](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-19.md) - 2023-03-19
 * [2023-03-18](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-18.md) - 2023-03-18
 * [2023-03-17](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-17.md) - 2023-03-17
 * [2023-03-16](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-16.md) - 2023-03-16
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [2023-03-12](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-12.md) - 2023-03-12
 * [2023-03-11](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-11.md) - 2023-03-11
 * [2023-03-10](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-10.md) - 2023-03-10
-* [Valid&Validate](https://github.com/fulln/TIL/blob/master/code/spring/Valid&Validate.md) - 2023-03-10
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
