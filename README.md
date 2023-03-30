@@ -64,7 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
-* [maxWidthOfVerticalArea](https://github.com/fulln/TIL/blob/master/newFiles/maxWidthOfVerticalArea.md) - 2023-03-30
+* [1637. 两点之间不包含任何点的最宽垂直区域](https://github.com/fulln/TIL/blob/master/leetcode/middle/maxWidthOfVerticalArea.md) - 2023-03-30
 * [2023-03-30](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-30.md) - 2023-03-30
 * [jvmUpgrade](https://github.com/fulln/TIL/blob/master/code/jvm/jvmUpgrade.md) - 2023-03-30
 * [1641. 统计字典序元音字符串的数目](https://github.com/fulln/TIL/blob/master/leetcode/middle/countVowelStrings.md) - 2023-03-29
