@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [arithmeticTriplets](https://github.com/fulln/TIL/blob/master/newFiles/arithmeticTriplets.md) - 2023-03-31
 * [2023-03-31](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-31.md) - 2023-03-31
 * [JvmLoadSubSystem](https://github.com/fulln/TIL/blob/master/code/jvm/JvmLoadSubSystem.md) - 2023-03-31
 * [classLoader](https://github.com/fulln/TIL/blob/master/code/jvm/classLoader.md) - 2023-03-31
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [1641. 统计字典序元音字符串的数目](https://github.com/fulln/TIL/blob/master/leetcode/middle/countVowelStrings.md) - 2023-03-29
 * [2023-03-29](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-29.md) - 2023-03-29
 * [ObsidianCallOut](https://github.com/fulln/TIL/blob/master/code/obsidian/ObsidianCallOut.md) - 2023-03-29
-* [2023-03-28](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-28.md) - 2023-03-28
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
