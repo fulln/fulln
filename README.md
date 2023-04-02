@@ -64,8 +64,9 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [2023-04-02](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-02.md) - 2023-04-02
+* [2367. 算术三元组的数目](https://github.com/fulln/TIL/blob/master/leetcode/easy/arithmeticTriplets.md) - 2023-04-02
 * [2023-04-01](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-01.md) - 2023-04-01
-* [arithmeticTriplets](https://github.com/fulln/TIL/blob/master/newFiles/arithmeticTriplets.md) - 2023-03-31
 * [2023-03-31](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-31.md) - 2023-03-31
 * [JvmLoadSubSystem](https://github.com/fulln/TIL/blob/master/code/jvm/JvmLoadSubSystem.md) - 2023-03-31
 * [classLoader](https://github.com/fulln/TIL/blob/master/code/jvm/classLoader.md) - 2023-03-31
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [2023-03-30](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-30.md) - 2023-03-30
 * [jvmUpgrade](https://github.com/fulln/TIL/blob/master/code/jvm/jvmUpgrade.md) - 2023-03-30
 * [1641. 统计字典序元音字符串的数目](https://github.com/fulln/TIL/blob/master/leetcode/middle/countVowelStrings.md) - 2023-03-29
-* [2023-03-29](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-29.md) - 2023-03-29
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
