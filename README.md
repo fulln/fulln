@@ -64,6 +64,8 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [1017. 负二进制转换](https://github.com/fulln/TIL/blob/master/leetcode/middle/baseNeg2.md) - 2023-04-06
+* [2023-04-06](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-06.md) - 2023-04-06
 * [2023-04-05](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-05.md) - 2023-04-05
 * [2023-04-04](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-04.md) - 2023-04-04
 * [2023-04-03](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-03.md) - 2023-04-03
@@ -72,8 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [2023-04-02](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-02.md) - 2023-04-02
 * [2023-04-01](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-01.md) - 2023-04-01
 * [2023-03-31](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-31.md) - 2023-03-31
-* [JvmLoadSubSystem](https://github.com/fulln/TIL/blob/master/code/jvm/JvmLoadSubSystem.md) - 2023-03-31
-* [classLoader](https://github.com/fulln/TIL/blob/master/code/jvm/classLoader.md) - 2023-03-31
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
