@@ -64,7 +64,9 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
-* [NestedConfigurationProperty](https://github.com/fulln/TIL/blob/master/newFiles/NestedConfigurationProperty.md) - 2023-04-07
+* [NestedConfigurationProperty](https://github.com/fulln/TIL/blob/master/code/spring/NestedConfigurationProperty.md) - 2023-04-07
+* [以下是一些经典的 LeetCode 题目链接，涵盖算法和数据结构的多个知识点：](https://github.com/fulln/TIL/blob/master/leetcode/gpt-100/GPT.md) - 2023-04-07
+* [2023-04-07](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-07.md) - 2023-04-07
 * [1017. 负二进制转换](https://github.com/fulln/TIL/blob/master/leetcode/middle/baseNeg2.md) - 2023-04-06
 * [2023-04-06](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-06.md) - 2023-04-06
 * [2023-04-05](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-05.md) - 2023-04-05
@@ -72,8 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [2023-04-03](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-03.md) - 2023-04-03
 * [多边形三角剖分的最低得分](https://github.com/fulln/TIL/blob/master/leetcode/middle/minScoreTriangulation.md) - 2023-04-02
 * [2367. 算术三元组的数目](https://github.com/fulln/TIL/blob/master/leetcode/easy/arithmeticTriplets.md) - 2023-04-02
-* [2023-04-02](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-02.md) - 2023-04-02
-* [2023-04-01](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-01.md) - 2023-04-01
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
