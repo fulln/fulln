@@ -64,6 +64,7 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
+* [NestedConfigurationProperty](https://github.com/fulln/TIL/blob/master/newFiles/NestedConfigurationProperty.md) - 2023-04-07
 * [1017. 负二进制转换](https://github.com/fulln/TIL/blob/master/leetcode/middle/baseNeg2.md) - 2023-04-06
 * [2023-04-06](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-06.md) - 2023-04-06
 * [2023-04-05](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-05.md) - 2023-04-05
@@ -73,7 +74,6 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 * [2367. 算术三元组的数目](https://github.com/fulln/TIL/blob/master/leetcode/easy/arithmeticTriplets.md) - 2023-04-02
 * [2023-04-02](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-02.md) - 2023-04-02
 * [2023-04-01](https://github.com/fulln/TIL/blob/master/daily/2023-04/2023-04-01.md) - 2023-04-01
-* [2023-03-31](https://github.com/fulln/TIL/blob/master/daily/2023-03/2023-03-31.md) - 2023-03-31
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
