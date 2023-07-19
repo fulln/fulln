@@ -83,15 +83,11 @@ def fetch_releases(oauth_token):
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "")
                         .strip(),
-                        "published_at": repo["releases"]["nodes"][0][
-                            "publishedAt"
-                        ].split("T")[0],
+                        "published_at": repo["releases"]["nodes"][0]["publishedAt"].split("T")[0],
                         "url": repo["releases"]["nodes"][0]["url"],
                     }
                 )
-        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
-            "hasNextPage"
-        ]
+        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"]["hasNextPage"]
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
     return releases
 
