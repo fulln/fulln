@@ -83,7 +83,8 @@ def fetch_releases(oauth_token):
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "")
                         .strip(),
-                        "published_at": repo["releases"]["nodes"][0]["publishedAt"].split("T")[0],
+                        # if published_at is None, it will be null else it will split the string and get the first element
+                        "published_at": repo["releases"]["nodes"][0]["publishedAt"].split("T")[0] if repo["releases"]["nodes"][0]["publishedAt"] else "",
                         "url": repo["releases"]["nodes"][0]["url"],
                     }
                 )
