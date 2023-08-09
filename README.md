@@ -64,16 +64,16 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 ### Recent TIL
  
 <!-- recent_TIL starts -->
-* [2023-07-25](https://github.com/fulln/TIL/blob/master/daily/2023-07/2023-07-25.md) - 2023/7/25 23:49:12
-* [消费者组重平衡](https://github.com/fulln/TIL/blob/master/lib/geektime/kafka%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98/%E6%B6%88%E8%B4%B9%E8%80%85%E7%BB%84%E9%87%8D%E5%B9%B3%E8%A1%A1.md) - 2023/7/25 23:46:59
-* [分库分表分页查询](https://github.com/fulln/TIL/blob/master/lib/geektime/%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%AB%98%E9%98%B6%E9%9D%A2%E7%BB%8F/%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2.md) - 2023/7/25 00:22:14
-* [2023-07-24](https://github.com/fulln/TIL/blob/master/daily/2023-07/2023-07-24.md) - 2023/7/24 23:28:24
-* [客户端都有哪些不常见但是很高级的功能](https://github.com/fulln/TIL/blob/master/lib/geektime/kafka%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98/%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%B8%B8%E8%A7%81%E4%BD%86%E6%98%AF%E5%BE%88%E9%AB%98%E7%BA%A7%E7%9A%84%E5%8A%9F%E8%83%BD.md) - 2023/7/24 00:33:10
-* [kthSmallest](https://github.com/fulln/TIL/blob/master/leetcode/middle/kthSmallest.md) - 2023/1/27 12:49:12
-* [getKthFromEnd](https://github.com/fulln/TIL/blob/master/leetcode/easy/getKthFromEnd.md) - 2023/1/27 12:49:11
-* [findKthNumber](https://github.com/fulln/TIL/blob/master/leetcode/middle/findKthNumber.md) - 2023/1/27 12:49:12
-* [lengthOfLongestSubstring](https://github.com/fulln/TIL/blob/master/leetcode/easy/lengthOfLongestSubstring.md) - 2023/1/27 12:49:11
-* [searchInsert](https://github.com/fulln/TIL/blob/master/leetcode/easy/searchInsert.md) - 2023/1/27 12:49:11
+* [未命名 4](https://github.com/fulln/TIL/blob/master/newFiles/%E6%9C%AA%E5%91%BD%E5%90%8D%204.md) - 2023/8/10 00:04:16
+* [未命名 3](https://github.com/fulln/TIL/blob/master/newFiles/%E6%9C%AA%E5%91%BD%E5%90%8D%203.md) - 2023/8/10 00:03:43
+* [未命名 2](https://github.com/fulln/TIL/blob/master/newFiles/%E6%9C%AA%E5%91%BD%E5%90%8D%202.md) - 2023/8/10 00:03:18
+* [微服务问题总结](https://github.com/fulln/TIL/blob/master/code/micro/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93.md) - 2023/8/9 23:16:40
+* [服务注册和发现](https://github.com/fulln/TIL/blob/master/lib/geektime/%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%AB%98%E9%98%B6%E9%9D%A2%E7%BB%8F/%E6%9C%8D%E5%8A%A1%E6%B3%A8%E5%86%8C%E5%92%8C%E5%8F%91%E7%8E%B0.md) - 2023/8/9 23:05:40
+* [微服务架构](https://github.com/fulln/TIL/blob/master/lib/geektime/%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%AB%98%E9%98%B6%E9%9D%A2%E7%BB%8F/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84.md) - 2023/7/7 23:55:28
+* [超时控制](https://github.com/fulln/TIL/blob/master/lib/geektime/%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%AB%98%E9%98%B6%E9%9D%A2%E7%BB%8F/%E8%B6%85%E6%97%B6%E6%8E%A7%E5%88%B6.md) - 2023/7/31 00:16:48
+* [微服务应用的高可用](https://github.com/fulln/TIL/blob/master/lib/geektime/%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%AB%98%E9%98%B6%E9%9D%A2%E7%BB%8F/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%BA%94%E7%94%A8%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8.md) - 2023/7/6 23:54:42
+* [微服务降级功能](https://github.com/fulln/TIL/blob/master/lib/geektime/%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%AB%98%E9%98%B6%E9%9D%A2%E7%BB%8F/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E9%99%8D%E7%BA%A7%E5%8A%9F%E8%83%BD.md) - 2023/6/23 23:36:59
+* [shellOption](https://github.com/fulln/TIL/blob/master/code/windows/shellOption.md) - 2023/1/27 12:49:11
 <!-- recent_TIL ends -->
  
 :bulb: scaryp from [here](https://github.com/fulln/TIL)
