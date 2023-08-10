@@ -25,34 +25,34 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <!-- recent_blogs starts -->
 <ul>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16987548.html">1.lambda设计参考</a>
+<a href="https://www.cnblogs.com/wzqshb/p/17619287.html">1.基于私有化文档训练AI之threado的使用和感受</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16787675.html">2.java使用casbin</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16987548.html">2.lambda设计参考</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16595799.html">3.ProcessorSlot</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16787675.html">3.java使用casbin</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16585826.html">4.StatisticNode 结构</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16595799.html">4.ProcessorSlot</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16585817.html">5.Sphu的调用链</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16585826.html">5.StatisticNode 结构</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16585811.html">6.sentinel 资源定义方式</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16585817.html">6.Sphu的调用链</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16529826.html">7.CompletableFuture 在首页上的查询应用</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16585811.html">7.sentinel 资源定义方式</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16276966.html">8.SpringCache从入门到弃坑</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16529826.html">8.CompletableFuture 在首页上的查询应用</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/15716161.html">9.状态机的介绍和使用</a>
+<a href="https://www.cnblogs.com/wzqshb/p/16276966.html">9.SpringCache从入门到弃坑</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/15684005.html">10.Tomcat 加载包导致OOM</a>
+<a href="https://www.cnblogs.com/wzqshb/p/15716161.html">10.状态机的介绍和使用</a>
 </li>
 </ul>
 <!-- recent_blogs ends -->
