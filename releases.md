@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->7<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[logHelper](https://github.com/fulln/logHelper)**: [first_init](https://github.com/fulln/logHelper/releases/tag/1.0.0) - 2021-07-04
@@ -15,6 +15,8 @@ All <!-- release_count starts -->6<!-- release_count ends --> of my released pro
 <br>java 代理模式进行数据源的切换
 * **[sampleScrips](https://github.com/fulln/sampleScrips)**: [](https://github.com/fulln/sampleScrips/releases/tag/1.1.0) - 2020-06-19
 <br>目前搜罗到的一些简单有效的py脚本orgolang再实现版本
+* **[FPlugins](https://github.com/fulln/FPlugins)**: [v0.0.1](https://github.com/fulln/FPlugins/releases/tag/untagged-47f0668139777e91e196) - 
+<br>随便写的一个idea插件
 <!-- recent_releases ends -->
 
 
