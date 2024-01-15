@@ -25,34 +25,34 @@ More [recent releases](https://github.com/fulln/fulln/blob/master/releases.md)
 <!-- recent_blogs starts -->
 <ul>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/17729221.html">1.如何设计实现一个好用的分布式监控体系？</a>
+<a>1.如何设计实现一个好用的分布式监控体系？</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/17703899.html">2.BTrace</a>
+<a>2.BTrace</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/17703904.html">3.gitreset</a>
+<a>3.gitreset</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/17703906.html">4.DeclaredMethod</a>
+<a>4.DeclaredMethod</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/17703907.html">5.java中的真随机数</a>
+<a>5.java中的真随机数</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/17701157.html">6.pod对象</a>
+<a>6.pod对象</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/17698155.html">7.限流方案</a>
+<a>7.限流方案</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/17692331.html">8.podInfo</a>
+<a>8.podInfo</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/17619287.html">9.基于私有化文档训练AI之threado的使用和感受</a>
+<a>9.基于私有化文档训练AI之threado的使用和感受</a>
 </li>
 <li>
-<a href="https://www.cnblogs.com/wzqshb/p/16987548.html">10.lambda设计参考</a>
+<a>10.lambda设计参考</a>
 </li>
 </ul>
 <!-- recent_blogs ends -->
