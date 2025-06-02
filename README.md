@@ -1,7 +1,7 @@
 ## About me
 
 Currently working in SHENZHEN. CHINA 
- - chat me with qq: 245193247
+ - chat me with wechat: Fulln2561
  - [follow @fulln on Twitter](https://twitter.com/fulln16).
 <table><tr><td valign="top">
  
