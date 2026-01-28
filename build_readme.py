@@ -109,6 +109,9 @@ def fetch_blog_entries(client: httpx.Client) -> str:
 def main():
     readme_path = root / "README.md"
     releases_path = root / "releases.md"
+    
+    # Initialize readme_contents to the current content
+    readme_contents = readme_path.read_text(encoding="utf-8")
 
     with httpx.Client() as client:
         # 1. Fetch and process Releases
@@ -123,8 +126,6 @@ def main():
                         f"* [{r['repo']} {r['release']}]({r['url']}) - {r['published_at']}"
                         for r in releases[:5]
                     ])
-                    
-                    readme_contents = readme_path.read_text(encoding="utf-8")
                     readme_contents = replace_chunk(readme_contents, "recent_releases", recent_releases_md)
 
                     # Update releases.md
@@ -141,7 +142,6 @@ def main():
                 print(f"Error fetching releases: {e}")
         else:
             print("TOKEN not found, skipping releases update.")
-            readme_contents = readme_path.read_text(encoding="utf-8")
 
         # 2. Fetch and update TILs
         try:
