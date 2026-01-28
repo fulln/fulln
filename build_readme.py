@@ -91,15 +91,22 @@ def fetch_releases(client: httpx.Client, oauth_token: str) -> List[Dict[str, Any
     
     return releases
 
-def fetch_tils(client: httpx.Client) -> List[str]:
-    """Fetch top TILs from personal repo."""
-    # Trying main branch as per user suggestion
-    response = client.get("https://raw.githubusercontent.com/fulln/TIL/main/menu.json")
-    if response.status_code == 404:
-        # Fallback to master if main doesn't exist
-        response = client.get("https://raw.githubusercontent.com/fulln/TIL/master/menu.json")
-    response.raise_for_status()
-    return response.json().get('top', [])
+def fetch_tils(client: httpx.Client, oauth_token: str) -> List[str]:
+    """Fetch top TILs from personal repo via GitHub API."""
+    # Using the API instead of raw.githubusercontent.com to handle tokens and branches better
+    url = "https://api.github.com/repos/fulln/TIL/contents/menu.json"
+    headers = {"Authorization": f"Bearer {oauth_token}"} if oauth_token else {}
+    response = client.get(url, headers=headers)
+    
+    if response.status_code == 200:
+        import base64
+        content = response.json().get("content", "")
+        if content:
+            decoded = base64.b64decode(content).decode("utf-8")
+            return json.loads(decoded).get("top", [])
+    
+    print(f"Failed to fetch TILs via API: {response.status_code} {response.text}")
+    return []
 
 def fetch_blog_entries(client: httpx.Client) -> str:
     """Fetch recent blog posts from cnblogs."""
@@ -155,11 +162,13 @@ def main():
 
         # 2. Fetch and update TILs
         try:
-            tils = fetch_tils(client)
+            tils = fetch_tils(client, TOKEN)
             if tils:
                 tils_md = "\n".join(tils)
                 readme_contents = replace_chunk(readme_contents, "recent_TIL", tils_md)
                 print(f"Updated README with {len(tils)} TILs.")
+            else:
+                print("No TILs fetched.")
         except Exception as e:
             print(f"Error fetching TILs: {e}")
 
