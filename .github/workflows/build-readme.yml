@@ -13,6 +13,9 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -34,7 +37,7 @@ jobs:
 
       - name: Update README
         env:
-          TOKEN: ${{ secrets.README_BOT }}
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python build_readme.py
 

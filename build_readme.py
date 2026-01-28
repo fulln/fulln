@@ -26,7 +26,7 @@ def make_query(after_cursor: Optional[str] = None) -> str:
     after = f'"{after_cursor}"' if after_cursor else "null"
     return """
 query {
-  viewer {
+  user(login: "fulln") {
     repositories(first: 100, privacy: PUBLIC, after:AFTER) {
       pageInfo {
         hasNextPage
@@ -66,11 +66,15 @@ def fetch_releases(client: httpx.Client, oauth_token: str) -> List[Dict[str, Any
         response.raise_for_status()
         data = response.json()
         
-        # Log for debugging (optional, keeping it as requested/existing behavior)
-        # print(json.dumps(data, ensure_ascii=False, indent=2))
+        # Log for debugging
+        if "errors" in data:
+            print(f"GraphQL Errors: {data['errors']}")
+        if "data" not in data or "user" not in data["data"]:
+            print(f"Unexpected data structure: {data}")
+            break
 
-        repos_data = data["data"]["viewer"]["repositories"]
-        for repo in repos_data["nodes"]:
+        result = data["data"]["user"]["repositories"]
+        for repo in result["nodes"]:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repo_names.add(repo["name"])
                 release_node = repo["releases"]["nodes"][0]
@@ -83,14 +87,14 @@ def fetch_releases(client: httpx.Client, oauth_token: str) -> List[Dict[str, Any
                     "url": release_node["url"],
                 })
         
-        has_next_page = repos_data["pageInfo"]["hasNextPage"]
-        after_cursor = repos_data["pageInfo"]["endCursor"]
+        has_next_page = result["pageInfo"]["hasNextPage"]
+        after_cursor = result["pageInfo"]["endCursor"]
     
     return releases
 
 def fetch_tils(client: httpx.Client) -> List[str]:
     """Fetch top TILs from personal repo."""
-    response = client.get("https://raw.githubusercontent.com/fulln/TIL/master/menu.json")
+    response = client.get("https://raw.githubusercontent.com/fulln/TIL/main/menu.json")
     response.raise_for_status()
     return response.json().get('top', [])
 
