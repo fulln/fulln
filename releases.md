@@ -3,8 +3,10 @@
 All <!-- release_count starts -->7<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[reminder-alf](https://github.com/fulln/reminder-alf)**: [v1.1.0](https://github.com/fulln/reminder-alf/releases/tag/v1.1.0) - 2026-01-27
+<br>AI-powered calendar and reminder management for Alfred on macOS. Parse natural language (English/Chinese) to create events and reminders with OpenAI/DeepSeek.
 * **[logHelper](https://github.com/fulln/logHelper)**: [first_init](https://github.com/fulln/logHelper/releases/tag/1.0.0) - 2021-07-04
-<br>None
+<br>
 * **[docker-develop-env](https://github.com/fulln/docker-develop-env)**: [docker-env](https://github.com/fulln/docker-develop-env/releases/tag/1.0.0) - 2021-06-27
 <br>一些开发环境的docker配置
 * **[converter](https://github.com/fulln/converter)**: [](https://github.com/fulln/converter/releases/tag/1.0.0) - 2021-06-20
@@ -15,8 +17,6 @@ All <!-- release_count starts -->7<!-- release_count ends --> of my released pro
 <br>java 代理模式进行数据源的切换
 * **[sampleScrips](https://github.com/fulln/sampleScrips)**: [](https://github.com/fulln/sampleScrips/releases/tag/1.1.0) - 2020-06-19
 <br>目前搜罗到的一些简单有效的py脚本orgolang再实现版本
-* **[FPlugins](https://github.com/fulln/FPlugins)**: [v0.0.1](https://github.com/fulln/FPlugins/releases/tag/untagged-47f0668139777e91e196) - 
-<br>随便写的一个idea插件
 <!-- recent_releases ends -->
 
 
