@@ -6,7 +6,7 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    - cron: '32 * * * *'
+    - cron: '0 0 * * *'
 
 # Prevent concurrent runs from clobbering each other
 concurrency:

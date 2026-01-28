@@ -6,6 +6,7 @@ from typing import List, Dict, Any, Optional
 
 import httpx
 from bs4 import BeautifulSoup
+from datetime import datetime, timedelta, timezone
 
 root = pathlib.Path(__file__).parent.resolve()
 TOKEN = os.environ.get("TOKEN", "")
@@ -36,12 +37,14 @@ query {
         name
         description
         url
-        releases(last:1) {
+        releases(first: 5, orderBy: {field: CREATED_AT, direction: DESC}) {
           totalCount
           nodes {
             name
             publishedAt
             url
+            isPrerelease
+            isDraft
           }
         }
       }
@@ -76,15 +79,23 @@ def fetch_releases(client: httpx.Client, oauth_token: str) -> List[Dict[str, Any
         for repo in result["nodes"]:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repo_names.add(repo["name"])
-                release_node = repo["releases"]["nodes"][0]
-                releases.append({
-                    "repo": repo["name"],
-                    "repo_url": repo["url"],
-                    "description": repo["description"] or "",
-                    "release": release_node["name"].replace(repo["name"], "").strip(),
-                    "published_at": (release_node["publishedAt"] or "").split("T")[0],
-                    "url": release_node["url"],
-                })
+                # Get the latest published release (not draft)
+                valid_release = None
+                for release in repo["releases"]["nodes"]:
+                    if release["isDraft"] or not release["publishedAt"]:
+                        continue
+                    valid_release = release
+                    break
+
+                if valid_release:
+                    releases.append({
+                        "repo": repo["name"],
+                        "repo_url": repo["url"],
+                        "description": repo["description"] or "",
+                        "release": valid_release["name"].replace(repo["name"], "").strip(),
+                        "published_at": valid_release["publishedAt"].split("T")[0],
+                        "url": valid_release["url"],
+                    })
         
         has_next_page = result["pageInfo"]["hasNextPage"]
         after_cursor = result["pageInfo"]["endCursor"]
@@ -133,6 +144,23 @@ def main():
                 if releases:
                     releases.sort(key=lambda r: r["published_at"], reverse=True)
                     
+                    today = datetime.now(timezone.utc)
+                    cutoff_date = today - timedelta(days=3 * 365)
+
+                    filtered_releases = []
+                    for r in releases:
+                        try:
+                            # Parse published_at which is YYYY-MM-DD
+                            pub_date = datetime.strptime(r["published_at"], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+                            if pub_date >= cutoff_date:
+                                filtered_releases.append(r)
+                        except ValueError:
+                            # Keep it if date parsing fails just in case, or log it.
+                            # Usually api returns YYYY-MM-DD reliably if we split 'T'
+                            pass
+                    
+                    releases = filtered_releases
+
                     # Update README
                     recent_releases_md = "\n".join([
                         f"* [{r['repo']} {r['release']}]({r['url']}) - {r['published_at']}"

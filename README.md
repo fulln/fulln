@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/banner.png" width="85%" alt="Fulln's Banner" />
+
   
   # 👋 Hi there, I'm Fulln
   
   ### 🚀 Full Stack Engineer | 10 Years in Software Architecture | Open Source Contributor
   
   [![Twitter Follow](https://img.shields.io/twitter/follow/fulln16?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/fulln16)
-  [![WeChat](https://img.shields.io/badge/WeChat-Fulln2561-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
+  [![WeChat](https://img.shields.io/badge/WeChat-Fulln2561-07C160?style=for-the-badge&logo=wechat&logoColor=white)](assets/banner.png)
   [![Location](https://img.shields.io/badge/Location-Shenzhen,%20China-FF5733?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
   <br/>
