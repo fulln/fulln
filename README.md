@@ -25,6 +25,38 @@
 
 ### ✍️ Recent Blogs
 <!-- recent_blogs starts -->
+<ul>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/18288858">1. 【详细版】Spring Tips： Spring Statemachine</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/17729221.html">2. 如何设计实现一个好用的分布式监控体系？</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/17703899.html">3. BTrace</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/17703904.html">4. gitreset</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/17703906.html">5. DeclaredMethod</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/17703907.html">6. java中的真随机数</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/17701157.html">7. pod对象</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/17698155.html">8. 限流方案</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/17692331.html">9. podInfo</a>
+</li>
+<li>
+<a href="https://www.cnblogs.com/wzqshb/p/17619287.html">10. 基于私有化文档训练AI之threado的使用和感受</a>
+</li>
+</ul>
 <!-- recent_blogs ends -->
 
 ---
