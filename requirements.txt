@@ -1,5 +1,2 @@
-python-graphql-client==0.3.0
 httpx
-feedparser
-bs4
-requests
+beautifulsoup4

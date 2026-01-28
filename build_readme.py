@@ -1,32 +1,29 @@
-from python_graphql_client import GraphqlClient
-from bs4 import BeautifulSoup
-import requests
-import feedparser
-import httpx
-import json
-import pathlib
 import re
 import os
+import pathlib
+import json
+from typing import List, Dict, Any, Optional
+
+import httpx
+from bs4 import BeautifulSoup
 
 root = pathlib.Path(__file__).parent.resolve()
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
-
-
 TOKEN = os.environ.get("TOKEN", "")
 
-
-def replace_chunk(content, marker, chunk, inline=False):
-    r = re.compile(
-        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
+def replace_chunk(content: str, marker: str, chunk: str, inline: bool = False) -> str:
+    """Replace a chunk of text between markers."""
+    pattern = re.compile(
+        rf"<!-- {marker} starts -->.*<!-- {marker} ends -->",
         re.DOTALL,
     )
     if not inline:
-        chunk = "\n{}\n".format(chunk)
-    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
-    return r.sub(chunk, content)
+        chunk = f"\n{chunk}\n"
+    new_chunk = f"<!-- {marker} starts -->{chunk}<!-- {marker} ends -->"
+    return pattern.sub(new_chunk, content)
 
-
-def make_query(after_cursor=None):
+def make_query(after_cursor: Optional[str] = None) -> str:
+    """Create the GitHub GraphQL query."""
+    after = f'"{after_cursor}"' if after_cursor else "null"
     return """
 query {
   viewer {
@@ -51,99 +48,119 @@ query {
     }
   }
 }
-""".replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
-    )
+""".replace("AFTER", after)
 
-
-def fetch_releases(oauth_token):
-    repos = []
+def fetch_releases(client: httpx.Client, oauth_token: str) -> List[Dict[str, Any]]:
+    """Fetch recent releases from GitHub via GraphQL."""
     releases = []
     repo_names = set()
     has_next_page = True
     after_cursor = None
 
     while has_next_page:
-        data = client.execute(
-            query=make_query(after_cursor),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
+        response = client.post(
+            "https://api.github.com/graphql",
+            json={"query": make_query(after_cursor)},
+            headers={"Authorization": f"Bearer {oauth_token}"},
         )
-        print()
-        print(json.dumps(data, ensure_ascii=False))
-        print()
-        for repo in data["data"]["viewer"]["repositories"]["nodes"]:
+        response.raise_for_status()
+        data = response.json()
+        
+        # Log for debugging (optional, keeping it as requested/existing behavior)
+        # print(json.dumps(data, ensure_ascii=False, indent=2))
+
+        repos_data = data["data"]["viewer"]["repositories"]
+        for repo in repos_data["nodes"]:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
-                repos.append(repo)
                 repo_names.add(repo["name"])
-                releases.append(
-                    {
-                        "repo": repo["name"],
-                        "repo_url": repo["url"],
-                        "description": repo["description"],
-                        "release": repo["releases"]["nodes"][0]["name"]
-                        .replace(repo["name"], "")
-                        .strip(),
-                        # if published_at is None, it will be null else it will split the string and get the first element
-                        "published_at": repo["releases"]["nodes"][0]["publishedAt"].split("T")[0] if repo["releases"]["nodes"][0]["publishedAt"] else "",
-                        "url": repo["releases"]["nodes"][0]["url"],
-                    }
-                )
-        has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"]["hasNextPage"]
-        after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
+                release_node = repo["releases"]["nodes"][0]
+                releases.append({
+                    "repo": repo["name"],
+                    "repo_url": repo["url"],
+                    "description": repo["description"] or "",
+                    "release": release_node["name"].replace(repo["name"], "").strip(),
+                    "published_at": (release_node["publishedAt"] or "").split("T")[0],
+                    "url": release_node["url"],
+                })
+        
+        has_next_page = repos_data["pageInfo"]["hasNextPage"]
+        after_cursor = repos_data["pageInfo"]["endCursor"]
+    
     return releases
 
+def fetch_tils(client: httpx.Client) -> List[str]:
+    """Fetch top TILs from personal repo."""
+    response = client.get("https://raw.githubusercontent.com/fulln/TIL/master/menu.json")
+    response.raise_for_status()
+    return response.json().get('top', [])
 
-def fetch_tils():
-    return httpx.get(
-        "https://raw.githubusercontent.com/fulln/TIL/master/menu.json"       
-    ).json()
+def fetch_blog_entries(client: httpx.Client) -> str:
+    """Fetch recent blog posts from cnblogs."""
+    response = client.get("https://www.cnblogs.com/wzqshb/ajax/sidecolumn.aspx")
+    response.raise_for_status()
+    # Use utf-8 for decoding
+    soup = BeautifulSoup(response.text, 'html.parser')
+    sidebar = soup.find(id="sidebar_recentposts")
+    if sidebar and sidebar.ul:
+        # Return the string representation of the ul element
+        return str(sidebar.ul)
+    return ""
 
+def main():
+    readme_path = root / "README.md"
+    releases_path = root / "releases.md"
 
-def fetch_blog_entries():
-    doc = requests.get("https://www.cnblogs.com/wzqshb/ajax/sidecolumn.aspx")
-    entries = BeautifulSoup(str(doc.content,'utf-8'), 'html.parser').find(id="sidebar_recentposts").ul
-    return entries
+    with httpx.Client() as client:
+        # 1. Fetch and process Releases
+        if TOKEN:
+            try:
+                releases = fetch_releases(client, TOKEN)
+                if releases:
+                    releases.sort(key=lambda r: r["published_at"], reverse=True)
+                    
+                    # Update README
+                    recent_releases_md = "\n".join([
+                        f"* [{r['repo']} {r['release']}]({r['url']}) - {r['published_at']}"
+                        for r in releases[:5]
+                    ])
+                    
+                    readme_contents = readme_path.read_text(encoding="utf-8")
+                    readme_contents = replace_chunk(readme_contents, "recent_releases", recent_releases_md)
 
+                    # Update releases.md
+                    releases_md = "\n".join([
+                        f"* **[{r['repo']}]({r['repo_url']})**: [{r['release']}]({r['url']}) - {r['published_at']}\n<br>{r['description']}"
+                        for r in releases
+                    ])
+                    
+                    project_releases_content = releases_path.read_text(encoding="utf-8")
+                    project_releases_content = replace_chunk(project_releases_content, "recent_releases", releases_md)
+                    project_releases_content = replace_chunk(project_releases_content, "release_count", str(len(releases)), inline=True)
+                    releases_path.write_text(project_releases_content, encoding="utf-8")
+            except Exception as e:
+                print(f"Error fetching releases: {e}")
+        else:
+            print("TOKEN not found, skipping releases update.")
+            readme_contents = readme_path.read_text(encoding="utf-8")
+
+        # 2. Fetch and update TILs
+        try:
+            tils = fetch_tils(client)
+            tils_md = "\n".join(tils)
+            readme_contents = replace_chunk(readme_contents, "recent_TIL", tils_md)
+        except Exception as e:
+            print(f"Error fetching TILs: {e}")
+
+        # 3. Fetch and update Blogs
+        try:
+            blog_entries = fetch_blog_entries(client)
+            if blog_entries:
+                readme_contents = replace_chunk(readme_contents, "recent_blogs", blog_entries)
+        except Exception as e:
+            print(f"Error fetching blogs: {e}")
+
+        # Final save for README
+        readme_path.write_text(readme_contents, encoding="utf-8")
 
 if __name__ == "__main__":
-    readme = root / "README.md"
-    project_releases = root / "releases.md"
-    releases = fetch_releases(TOKEN)
-    releases.sort(key=lambda r: r["published_at"], reverse=True)
-    md = "\n".join(
-        [
-            "* [{repo} {release}]({url}) - {published_at}".format(**release)
-            for release in releases[:5]
-        ]
-    )
-    readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "recent_releases", md)
-
-    # Write out full project-releases.md file
-    project_releases_md = "\n".join(
-        [
-            (
-                "* **[{repo}]({repo_url})**: [{release}]({url}) - {published_at}\n"
-                "<br>{description}"
-            ).format(**release)
-            for release in releases
-        ]
-    )
-    project_releases_content = project_releases.open().read()
-    project_releases_content = replace_chunk(
-        project_releases_content, "recent_releases", project_releases_md
-    )
-    project_releases_content = replace_chunk(
-        project_releases_content, "release_count", str(len(releases)), inline=True
-    )
-    project_releases.open("w").write(project_releases_content)
-
-    tils = fetch_tils()
-    tils_md = "\n".join(tils['top'])
-    rewritten = replace_chunk(rewritten, "recent_TIL", tils_md)
-
-    entries = fetch_blog_entries()
-    rewritten = replace_chunk(rewritten, "recent_blogs", entries)
-
-
-    readme.open("w").write(rewritten)
+    main()
