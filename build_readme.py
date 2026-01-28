@@ -122,6 +122,7 @@ def main():
         if TOKEN:
             try:
                 releases = fetch_releases(client, TOKEN)
+                print(f"Total releases found: {len(releases)}")
                 if releases:
                     releases.sort(key=lambda r: r["published_at"], reverse=True)
                     
@@ -131,17 +132,9 @@ def main():
                         for r in releases[:5]
                     ])
                     readme_contents = replace_chunk(readme_contents, "recent_releases", recent_releases_md)
-
-                    # Update releases.md
-                    releases_md = "\n".join([
-                        f"* **[{r['repo']}]({r['repo_url']})**: [{r['release']}]({r['url']}) - {r['published_at']}\n<br>{r['description']}"
-                        for r in releases
-                    ])
-                    
-                    project_releases_content = releases_path.read_text(encoding="utf-8")
-                    project_releases_content = replace_chunk(project_releases_content, "recent_releases", releases_md)
-                    project_releases_content = replace_chunk(project_releases_content, "release_count", str(len(releases)), inline=True)
-                    releases_path.write_text(project_releases_content, encoding="utf-8")
+                    print(f"Updated README with {len(releases[:5])} releases.")
+                else:
+                    print("No releases found in the GraphQL response.")
             except Exception as e:
                 print(f"Error fetching releases: {e}")
         else:
@@ -150,8 +143,10 @@ def main():
         # 2. Fetch and update TILs
         try:
             tils = fetch_tils(client)
-            tils_md = "\n".join(tils)
-            readme_contents = replace_chunk(readme_contents, "recent_TIL", tils_md)
+            print(f"Total TILs found: {len(tils)}")
+            if tils:
+                tils_md = "\n".join(tils)
+                readme_contents = replace_chunk(readme_contents, "recent_TIL", tils_md)
         except Exception as e:
             print(f"Error fetching TILs: {e}")
 
